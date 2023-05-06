@@ -7,87 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<meta name="google-site-verification" content="BcSmoaYwlWHjpfCp-00SeL-jTwpB2PsY-IHIjZSyBoc" />
+I am Teng Xue, a PhD student at Ecole Polytechnique Federale de Lausanne (EPFL) and a research assistant at Robot Learning and Interaction Group (RLI), Idiap Research Institute, supervised by Dr. [Sylvain Calinon](https://calinon.ch/). 
 
-<div class="text-justify">
+I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, especially long-term contact-rich manipulation, leveraging the tools in optimization and machine learning.
 
-<p>This is the web page of Adrian Salazar Gomez.</p>
+Recent News
+======
+* (2023/02) One paper is accepted to ICRA 2023!
 
-<p>I am a PhD student in Robotics and Computer Vision at the  <a href="https://www.ed.ac.uk">University of Edinburgh</a> in the <a href="https://groups.inf.ed.ac.uk/vico/">VICO lab</a> </p>
-
-<p>For more information about my research, do not hesitate to contact me through my email  <strong>adrian.salazar-gomez@ed.ac.uk</strong>  </p>
-
-<p>You can find my research in  my <a href="https://adrianxsalazar.github.io/publications/">publications</a> site or to my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en">Google Scholar</a> profile. </p>
-
-<h2> Research </h2>
-
-<div class="text-justify">
-
-<p>My research interests lie broadly within computer visiion, machine learning, and autonomous systems. I believe in autonomous systems as cautious continual learners. My research aims to explore the intersection between decision making autonomous systems, continous learning, and uncertainty in AI. </p>
-
-<p>Lately, I've been working on:</p>
-
-
-<ul>
-  <li>3D representations from 2D data </li>
-  <li>Computer vision for robotic applications</li>
-  <li>Uncertainty & Robustness in Deep Learning</li>
-</ul>
-
-
-<p>To know more about these topics, take a look to my <a href="https://adrianxsalazar.github.io/publications/">publications</a> site and <a href="https://adrianxsalazar.github.io/projects/">projects</a> site or to my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en">Google Scholar</a> profile. </p>
-
-<h2> Teaching </h2>
-
-<p>I am a teaching assistant at <a href="https://www.kcl.ac.uk/">King's College London</a> where I am teaching:</p>
-
- <ul>
-  <li>7CCSMDM1: Data Mining (2020) </li>
-  <li>7CCSMML: Machine Learning (2020 and 2021) </li>
-  <li>6CCS3AIN: Artificial Intelligence Reasoning and Decision Making (2020) </li>
-</ul>
-
-<p>I am a asociated demonstrator at <a href="https://www.lincoln.ac.uk/home/">the University of Lincoln</a> where I am teaching:</p>
- <ul>
-  <li>Big Data</li>
-  <li>Machine Learning</li>
-  <li>Introduction to robotics</li>
-</ul>
-
-</div>
-
-
-</div>
-
-
-<div class="text-justify">
-
-<h2> Contact </h2>
-
-<p>You can drop me an email to <a href="mailto:asalazargomez@lincoln.ac.uk"> my University of Lincoln email: </a>  <strong>asalazargomez@lincoln.ac.uk</strong>
-or to <a href="mailto:adrian.salazar_gomez@kcl.ac.uk"> my king's email: </a>  <strong>adrian.salazar_gomez@kcl.ac.uk</strong> <br> </p>
-
-</div>
-
-
-<div class="text-justify">
-
-<h2> Education </h2>
-
-<p> I have had the chance to study my BSc at the University of West Florida and the University of Burgos, a MSc at the University of Edinburgh, and a MSc at King's Collegue London. </p>
-
-<div class="text-center">
-<div class="row">
-
-	<img  class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
-	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
-	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
-
-</div></div>
-
-<br><p> If you want to know about my previous studies and my research placements you can take a look to my <a href="https://adrianxsalazar.github.io/cv/"> CV site </a></p>
-
-<h2> News </h2>
+<!-- <h2> News </h2>
 
 <p> <strong> 2021/02 </strong> <br>
 New dataset for object detection in agriculture. Title: Lincolnbeet. <a href="https://github.com/LAR/lincolnbeet_dataset"> [DATASET PAGE] </a> </p>
@@ -123,3 +51,4 @@ Started as a Research assistant in Machine learning and robotic perception at th
 Started as a Teaching assistant at King's College London </p>
 
 </div>
+ -->

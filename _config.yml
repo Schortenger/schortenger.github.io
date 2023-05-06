@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adrian Salazar"
-  avatar           : "adrian_salazar_profile.png"
-  bio              : "Research Assistant in Robotic Perception and Machine Learning"
-  location         : "London. United Kingdom"
+  name             : "Teng Xue (薛腾)"
+  avatar           : "txue_profile.png"
+  bio              : "Research Assistant in Robotic learning & Interaction group"
+  location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"
-  email            : "adrian.salazar_gomez@kcl.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Adrian_Salazar_Gomez"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=sgFW7YwAAAAJ&hl=zh-CN"
+  email            : "teng.xue@epfl.ch"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "adrianxsalazar"
+  github           : #"https://github.com/Schortenger"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "adrianxsalazar"
+  linkedin         : "https://www.linkedin.com/in/teng-xue-890654154/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf"
+  cv               : #"https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf"
 
 
 # Reading Files
