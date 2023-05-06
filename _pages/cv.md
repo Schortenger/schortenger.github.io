@@ -46,14 +46,14 @@ redirect_from:
 <h2>Publications</h2>
 <ul>
 
-  <ul>{% for post in site.publications %}
+  <li>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}<li>
 
 </ul>
 
 <h2>Awards</h2>
-<ul>
+<li>
 
   <li><b>King’s Education Award (2020) </b> Award to recognise teachers that supported students in and outside of the classroom </li>
 
@@ -91,10 +91,10 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams
 
 
-<!-- <h2>Publications</h2>
+<h2>Publications</h2>
 <ul>
 
   <li><b>Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping. </b> In IEEE Robotics and Automation Letters (RAL) (Accepted. To be published)</li>
@@ -187,4 +187,4 @@ Service and leadership
 	</ul>
 </ul>
 
-</div>
+</div> -->
