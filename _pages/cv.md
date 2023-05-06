@@ -13,9 +13,9 @@ redirect_from:
 <h2>Education</h2>
 
 <ul>
-	<li>B.Sc. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2017 </li>	
-	<li>M.Sc. in Mechanical Engineering, Shanghai Jiao Tong University, 2020 </li>
-	<li>Ph.D in Electrical Engineering, École Polytechnique Fédérale de Lausanne, 2025 (expected) </li>
+	<li>B.Sc. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2013 - 2017 </li>	
+	<li>M.Sc. in Mechanical Engineering, Shanghai Jiao Tong University, 2017 - 2020 </li>
+	<li>Ph.D in Electrical Engineering, École Polytechnique Fédérale de Lausanne, 2021 -  </li>
 </ul>
 
 <h2>Research experience</h2>
