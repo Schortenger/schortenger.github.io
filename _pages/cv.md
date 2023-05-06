@@ -44,17 +44,12 @@ redirect_from:
 	</ul>
 
 <h2>Publications</h2>
-<ul>
-
-  <li>{% for post in site.publications %}
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}<li>
-
-</ul>
+  {% endfor %}</ul>
 
 <h2>Awards</h2>
-<li>
-
+<ul>
   <li><b>King’s Education Award (2020) </b> Award to recognise teachers that supported students in and outside of the classroom </li>
 
 	<li><b>Erasmus + grant (2016) </b> European grant awarded on overall academic record to support cross country employment.</li>
@@ -64,7 +59,7 @@ redirect_from:
 </ul>
 
 <h2>Service</h2>
-<h3>Reviewer</h3>
+<li> <h3>Reviewer</h3>
 <ul>
  	<li>Journal: IEEE Sensors Journal </li>
 
