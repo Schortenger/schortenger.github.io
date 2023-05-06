@@ -64,7 +64,7 @@ redirect_from:
 </ul>
 
 <h2>Service</h2>
-<h3>Service</h3>
+<h3>Reviewer</h3>
 <ul>
  	<li>Journal: IEEE Sensors Journal </li>
 
@@ -91,7 +91,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently s -->igned in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
 
 
 <!-- <h2>Publications</h2>
