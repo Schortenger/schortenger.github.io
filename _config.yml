@@ -11,9 +11,9 @@ title                    : "Adrian Salazar - Site"
 title_separator          : "-"
 name                     : &name "Adrian Salazar"
 description              : &description "personal description"
-url                      : https://adrianxsalazar.github.io
+url                      : https://schortenger.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "adrianxsalazar/adrianxsalazar.github.io"
+repository               : "Schortenger/schortenger.github.io"
 teaser                   : 
 logo                     : "mstile-70x70.png"
 breadcrumbs              : false # true, false (default)
