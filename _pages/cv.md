@@ -52,7 +52,26 @@ redirect_from:
 
 </ul>
 
-Pub<!-- lications
+<h2>Awards</h2>
+<ul>
+
+  <li><b>King’s Education Award (2020) </b> Award to recognise teachers that supported students in and outside of the classroom </li>
+
+	<li><b>Erasmus + grant (2016) </b> European grant awarded on overall academic record to support cross country employment.</li>
+
+ 	<li><b> International Erasmus in USA scholarship (2014) </b>  University of Burgos scholarship for outstanding student to study 1 year in a USA University. </li>
+
+</ul>
+
+<h2>Service</h2>
+<h3>Service</h3>
+<ul>
+ 	<li>Journal: IEEE Sensors Journal </li>
+
+</ul>
+
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -112,29 +131,7 @@ Service and leadership
 
 </ul>
 
-<h2>Service</h2>
-<ul>
- 	<li>Reviewer:  21st Towards Autonomous Robotic Systems Conference (TAROS 2020) </li>
- 	<li>Conference volunteer:  8th International Conference on Learning  Representations (ICLR 2020) </li>
-	<li>Conference volunteer:  37th International Conference on Machine Learning (ICML 2020) </li>
-	<li>Reviewer:  12th  International Conference on Social Robotics (ICSR 2020) </li>
-	<li>Program Chair:  2nd Workshop of Quality of Interaction in Socially Assistive Robots (QISAR 2020) at 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020). </li>
-	<li> Conference volunteer: Thirty-fourth Annual Conference on Neural Information Processing Systems (NeurIPS 2020). </li>
 
-</ul>
-
-
-
-<h2>Awards</h2>
-<ul>
-
-  <li><b>King’s Education Award (2020) </b> Award to recognise teachers that supported students in and outside of the classroom </li>
-
-	<li><b>Erasmus + grant (2016) </b> European grant awarded on overall academic record to support cross country employment.</li>
-
- 	<li><b> International Erasmus in USA scholarship (2014) </b>  University of Burgos scholarship for outstanding student to study 1 year in a USA University. </li>
-
-</ul>
 
 <h2>Work experience</h2>
 <ul>
