@@ -8,66 +8,68 @@ redirect_from:
 
 <div class="text-justify">
 
-<p>You can downdload a detailed pdf version of my CV in the following link <a href="https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
+<!-- <p>You can downdload a detailed pdf version of my CV in the following link <a href="https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p> -->
 
 <h2>Education</h2>
 
 <ul>
-	<li>M.Sc. in Data Science, King's College London, 2019 </li>
-	<li>M.Sc. in Business Analytics, University of Edinburgh, 2018 </li>
-	<li>B.Sc. in Statistics and Business, University of West Florida and University of 		Burgos, 2016 </li>
+	<li>Ph.D in Electrical Engineering, École Polytechnique Fédérale de Lausanne, 2025 (expected) </li>
+	<li>M.Sc. in Mechanical Engineering, Shanghai Jiao Tong University, 2020 </li>
+	<li>B.Sc. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2017 </li>
 
 </ul>
 
 <h2>Research experience</h2>
 <ul>
 
-<li><b>March 2020 - Present: Research Assistant for project: 5G enabled AI for robotic applications</b></li>
+<li><b>2021.03 ~ 2021.08: Research Intern</b></li>
 	<ul>
-	  <li>University of Lincoln</li>
-	  <li>Supervisors:  Prof. Elizabeth Sklar and Prof. Simon Parsons</li>
-	  <li>Topics: Computer vision, De-centralised AI, Autonomous-farming, efficient deep learning structures</li>
+	  <li>Flexiv Robotics Inc. 非夕</li>
+	  <li>Supervisors:  Junfeng Ding, Prof. Cewu Lu</li>
+	  <li>Topics: Meta Deep Reinforcement Learning for Peg-In-Hole Tasks </li>
 	</ul>
 
-<li><b>March 2020 - Present: Research Assistant in Machine Learning</b></li>
+<li><b>2020.05 ~ 2020.10: Research Intern</b></li>
 	<ul>
-	  <li>University of Lincoln</li>
-	  <li>Supervisors:  Dr. Petra Bosilj and Prof. Simon Parsons</li>
-	  <li>Topics: Computer vision, crowd counting, density estimation, and object detection</li>
+	  <li>Stanford University</li>
+	  <li>Supervisors:  Dr. Shenli Yuan, Prof. Lin Shao, Prof. J. Kenneth Salisbury</li>
+	  <li>Topics: Learning-based control of Roller Grasper V2 for In-hand Manipulation</li>
 	</ul>
 
-<li><b>March 2020 - September 2021: Research Assistant in Robotic Perception</b></li>
+
+<li><b>2016.07 ~ 2016.08: Research Intern</b></li>
 	<ul>
-	  <li>University of Lincoln</li>
-	  <li>Supervisors:  Dr.  Grzegorz Cielniak and Prof.  Marc Hanheide</li>
-	  <li>Topics: Anomaly detection and Robustness in Deep Learning </li>
+	  <li>Da-Jiang Innovations (DJI) 大疆创新</li>
+	  <li>Supervisors: Shuo Yang</li>
+	  <li>Topics: Mechanical design for aircraft grasping</li>
 	</ul>
 
-<li><b>May 2019 - August 2019: Research Intern project in Machine Learning</b></li>
-	<ul>
-	<li>Kings College London at InteractLab</li>
-  	<li>Supervisors: Prof. Simon Parsons and Prof. Elizabeth Sklar</li>
-  	<li>Topics: Object detection, human-robot-interaction, coolaborative robots, active 		learning</li>
-	</ul>
-
-<li><b>January 2019 - August 2019: MSc Research Project in Machine Learning</b></li>
-	<ul>
-  	<li>King's College London</li>
-  	<li>Supervisor:  Dr. Brendan Michael</li>
-  	<li>Topics: 3D Generative Adversarial Networks, 3D image classification </li>
- 	</ul>
-
-<li><b>January 2019 - August 2019: MSc Research Project in Machine Learning</b></li>
-	<ul>
-  	<li>University of Edinburgh</li>
-  	<li>Supervisors: Prof.  Jamal Ouenniche and Dr.  Johannes De Smedt</li>
- 	<li>Topics: Graph Machine Learning, Costumer behaviour mining</li>
-	</ul>
-</ul>
 
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
 
-<h2>Publications</h2>
+
+<!-- <h2>Publications</h2>
 <ul>
 
   <li><b>Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping. </b> In IEEE Robotics and Automation Letters (RAL) (Accepted. To be published)</li>
@@ -182,4 +184,4 @@ redirect_from:
 	</ul>
 </ul>
 
-</div>
+</div> -->
