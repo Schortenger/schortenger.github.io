@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Teng Xue / idiap & EPFL"
+title                    : "Teng Xue / Idiap & EPFL"
 title_separator          : "-"
 name                     : &name "Adrian Salazar"
 description              : &description "personal description"
