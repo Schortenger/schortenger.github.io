@@ -13,10 +13,9 @@ redirect_from:
 <h2>Education</h2>
 
 <ul>
-	<li>Ph.D in Electrical Engineering, École Polytechnique Fédérale de Lausanne, 2025 (expected) </li>
+	<li>B.Sc. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2017 </li>	
 	<li>M.Sc. in Mechanical Engineering, Shanghai Jiao Tong University, 2020 </li>
-	<li>B.Sc. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2017 </li>
-
+	<li>Ph.D in Electrical Engineering, École Polytechnique Fédérale de Lausanne, 2025 (expected) </li>
 </ul>
 
 <h2>Research experience</h2>
@@ -44,9 +43,16 @@ redirect_from:
 	  <li>Topics: Mechanical design for aircraft grasping</li>
 	</ul>
 
+<h2>Publications</h2>
+<ul>
 
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-Publications
+</ul>
+
+Pub<!-- lications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -66,7 +72,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently s -->igned in to 43 different slack teams
 
 
 <!-- <h2>Publications</h2>
@@ -184,4 +190,4 @@ Service and leadership
 	</ul>
 </ul>
 
-</div> -->
+</div>

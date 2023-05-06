@@ -11,7 +11,7 @@ I am Teng Xue, a PhD student at Ecole Polytechnique Federale de Lausanne (EPFL) 
 
 I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, especially long-term contact-rich manipulation, leveraging the tools in optimization and machine learning.
 
-You can find my previous personal website <a href="https://xueteng.weebly.com/"> [here] </a> 
+You can find my previous personal website <a href="https://xueteng.weebly.com/"> [here] </a>.
 
 Recent News
 ======
