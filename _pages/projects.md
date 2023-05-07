@@ -54,6 +54,8 @@ To accomplish this, we developed a cutting-edge object detection network that ut
 <div class="w3-container w3-Dark Gray">
 <h2><b> COMAP's Mathematical Contest in Modeling (MCM) </b></h2>
 <div>
+<h4>Outstanding Winner（1/8085）</h4> </div>
+</div>
 <table>
 <tr>
 <td width="50%">
@@ -65,8 +67,7 @@ To accomplish this, we developed a cutting-edge object detection network that ut
 </tr>
 </table>
 </div>
-<h5>Outstanding Winner（1/8085）</span></h5> </div>
-</div>
+
 
 <div class="w3-container">
 <p>Description: Sustainable Cities Needed! The International City Management Group needs help for implementing smart growth theories into city design around the world. The detailed information can be seen here.
