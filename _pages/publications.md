@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://scholar.google.com.hk/citations?user=sgFW7YwAAAAJ&hl=zh-CN"> my Google Scholar profile </a> <br>
+You can find my full articles on <a href="https://scholar.google.com.hk/citations?user=sgFW7YwAAAAJ&hl=zh-CN"> my Google Scholar profile </a> <br>
 
-<strong>Publications</strong> <br>
+<strong>Selected Publications</strong> <br>
 
 <table >
 <tbody>

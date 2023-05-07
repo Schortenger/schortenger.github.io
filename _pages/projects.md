@@ -4,6 +4,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+This site shows some interesting projects I did before my PhD studies.
+
 <div class="text-justify">
 
 

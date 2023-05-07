@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Teng Xue, a PhD student at Ecole Polytechnique Federale de Lausanne (EPFL) and a research assistant at Robot Learning and Interaction Group (RLI), Idiap Research Institute, supervised by Dr. [Sylvain Calinon](https://calinon.ch/). 
 
-I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, especially long-term contact-rich manipulation, leveraging the tools in optimization and machine learning.
+I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, especially long-term contact-rich manipulation, by leveraging the tools in optimization and machine learning.
 
 You can find my previous personal website <a href="https://xueteng.weebly.com/"> [here] </a>.
 
