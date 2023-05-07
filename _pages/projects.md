@@ -34,8 +34,8 @@ Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbu
 <td width="50%">
 <iframe width="315" height="300" src="https://www.youtube.com//embed/DzuT_xpG6L0" frameborder="0" allowfullscreen></iframe>
 </td>
-<td width="50%">
-<img src="https://schortenger.github.io/images/TidyUpChallenge.jpg" width="300" height="300" alt="forecasting broccoli" class="responsivepost">
+<td width="50%" style="width:315; height=300; vertical-align: top;" >
+<img  src="https://schortenger.github.io/images/TidyUpChallenge.jpg" width="315" height="300" alt="forecasting broccoli" class="responsivepost">
 </td>
 </tr>
 </table>
@@ -57,7 +57,7 @@ To accomplish this, we developed a cutting-edge object detection network that ut
 <table>
 <tr>
 <td width="50%">
-<img src="https://schortenger.github.io/images/mcm-icm.jpg" width="300" height="300" alt="forecasting broccoli" class="responsivepost">
+<img src="https://schortenger.github.io/images/mcm-certificate.jpg" width="300" height="300" alt="forecasting broccoli" class="responsivepost">
 </td>
 <td width="50%">
 <img src="https://schortenger.github.io/images/mcm_paper.jpg" width="300" height="300" alt="forecasting broccoli" class="responsivepost">
