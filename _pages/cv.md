@@ -13,9 +13,10 @@ redirect_from:
 <h2>Education</h2>
 
 <ul>
-	<li>B.Sc. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2013 - 2017 </li>	
+	<li>B.Sc. in Mechanical Engineering, Nanjing University of Aeronautics and Astronautics, 2013 - 2017 </li>
 	<li>M.Sc. in Mechanical Engineering, Shanghai Jiao Tong University, 2017 - 2020 </li>
-	<li>Ph.D in Electrical Engineering, École Polytechnique Fédérale de Lausanne, 2021 -  </li>
+	<li>Visiting Student in Robotic Systems Lab, ETH Zurich, 2019 - 2020 </li>
+	<li>Ph.D in Electrical Engineering, École Polytechnique Fédérale de Lausanne, 2021 - 2025 (expected) </li>
 </ul>
 
 <h2>Research experience</h2>
@@ -57,7 +58,8 @@ redirect_from:
  	<li><b>  Tang Lixin Scholarship (2018) </b>  Award to students ranking Top 0.5% </li>
  	<li><b>  Chinese National Scholarship (2014 & 2018) </b>  Award to students ranking Top 1% </li>
  	<li><b>  1st Place (2018) </b>  Tidy Up My Room Chanllenge, Organized by <a href="https://roboticvision.org/"> Australian Centre for Robotic Vision  </a> in ICRA 2018
- 	<li><b>  3rd Prize (2016) </b>  Robomaster 2016 National Robotics Challenge </li></ul>
+ 	<li><b>  3rd Prize (2016) </b>  Robomaster 2016 National Robotics Challenge </li>
+</ul>
 
 <h2>Extracurricular and Social Activities</h2>
 <ul>
