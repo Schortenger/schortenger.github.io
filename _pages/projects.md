@@ -14,8 +14,8 @@ author_profile: true
 <img src="https://schortenger.github.io/images/Roller_Grasper.gif" alt="forecasting broccoli" class="responsivepost">
 </div>
 
-<h3> Stanford University, <span class="w3-opacity"> May 2020 - October 2020 </span> <br>
-Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </span></h3> 
+<h4> Stanford University, <span class="w3-opacity"> May 2020 - October 2020 </span> <br>
+Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </span></h4> 
 </div>
 
 <div class="w3-container">
@@ -32,7 +32,7 @@ Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbu
 <table>
 <tr>
 <td width="50%">
-<iframe width="300" height="315" src="https://www.youtube.com/watch?v=DzuT_xpG6L0" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="315" src="https://www.youtube.com//embed/DzuT_xpG6L0" frameborder="0" allowfullscreen></iframe>
 </td>
 <td width="50%">
 <img src="https://schortenger.github.io/images/TidyUpChallenge.jpg" alt="forecasting broccoli" class="responsivepost">
