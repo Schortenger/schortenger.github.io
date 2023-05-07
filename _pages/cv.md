@@ -57,23 +57,20 @@ redirect_from:
  	<li><b>  Tang Lixin Scholarship (2018) </b>  Award to students ranking Top 0.5% </li>
  	<li><b>  Chinese National Scholarship (2014 & 2018) </b>  Award to students ranking Top 1% </li>
  	<li><b>  1st Place (2018) </b>  Tidy Up My Room Chanllenge, Organized by <a href="https://roboticvision.org/"> Australian Centre for Robotic Vision  </a> in ICRA 2018
- 	<li><b>  3rd Prize (2016) </b>  Robomaster 2016 National Robotics Challenge </li>
-</ul>
+ 	<li><b>  3rd Prize (2016) </b>  Robomaster 2016 National Robotics Challenge </li></ul>
 
 <h2>Extracurricular and Social Activities</h2>
 <ul>
   <li><b>Vice President ( 2018.06 - 2019.06) </b> Graduate Student Union in School of Mechanical Engineering </li>
-
 </ul>
 
 
 
-<h2>Service</h2>
-<ul><h3>Reviewer</h3>
+<!-- <h2>Service</h2>
+<h3>Reviewer</h3>
 <ul>
  	<li>Journal: IEEE Sensors Journal </li>
-
-</ul>
+</ul> -->
 
 
 <!-- Publications
