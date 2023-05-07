@@ -14,8 +14,8 @@ author_profile: true
 <img src="https://schortenger.github.io/images/Roller_Grasper.gif" alt="forecasting broccoli" class="responsivepost">
 </div>
 
-<h4> Stanford University, <span class="w3-opacity"> May 2020 - October 2020 </span></h4> </div>
-<h4> Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </span></h4> </div>
+<h4> Stanford University, <span class="w3-opacity"> May 2020 - October 2020 </span></h4>
+<h4> Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </span></h4> 
 </div>
 
 <div class="w3-container">
