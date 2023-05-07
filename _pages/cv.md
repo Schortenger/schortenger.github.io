@@ -51,14 +51,14 @@ redirect_from:
 <h2>Awards</h2>
 <ul>
   <li><b>Outstanding Winner, 1/8085 (2017) </b> The 2017 Mathematics Contest in Modeling held by 
-  	<a href="https://www.comap.com/contests/mcm-icm"> [American Consortium for Mathematics and Its Application (COMAP) ] </a>
+  	<a href="https://www.comap.com/contests/mcm-icm"> American Consortium for Mathematics and Its Application (COMAP) </a>
   	</li>
 
 	<li><b>First prize (2014) </b> The 6th national mathematics contest for college students</li>
 
  	<li><b>  Tang Lixin Scholarship (2018) </b>  Award to students ranking Top 0.5% </li>
  	<li><b>  Chinese National Scholarship (2014 & 2018) </b>  Award to students ranking Top 1% </li>
- 	<li><b>  1st Place (2018) </b>  Tidy Up My Room Chanllenge, Organized by <a href="https://roboticvision.org/"> [Australian Centre for Robotic Vision]  </a> in ICRA 2018
+ 	<li><b>  1st Place (2018) </b>  Tidy Up My Room Chanllenge, Organized by <a href="https://roboticvision.org/"> Australian Centre for Robotic Vision  </a> in ICRA 2018
  	<li><b>  3rd Prize (2016) </b>  Robomaster 2016 National Robotics Challenge </li>
 
 </ul>
