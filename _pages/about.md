@@ -15,9 +15,9 @@ You can find my previous personal website <a href="https://xueteng.weebly.com/">
 
 Recent News
 ======
-* (2023/02) One paper about <strong>Non-prehensile Planar Manipulation</strong> is accepted to ICRA 2023!
-* (2022/01) One paper about <strong> Robot Grasping in Dense Clutter</strong>is accepted to Robotics and Autonomous Systems!
-* (2020/05) One paper about <strong> Multimodel Funsion in pHRI </strong> is accepted to IEEE sensors journal!
+(2023/02) One paper about <strong>Non-prehensile Planar Manipulation</strong> is accepted to ICRA 2023!
+(2022/01) One paper about <strong> Robot Grasping in Dense Clutter</strong> is accepted to Robotics and Autonomous Systems!
+(2020/05) One paper about <strong> Multimodel Funsion in pHRI </strong> is accepted to IEEE sensors journal!
 
 <!-- <h2> News </h2>
 
