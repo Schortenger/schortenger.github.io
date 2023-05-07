@@ -9,18 +9,18 @@ author_profile: true
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
-<h2><b> 5G enabled AI for autonomous systems </b></h2>
+<h2><b> Learning-based control of Roller Grasper V2 for in-hand manipulation  </b></h2>
 <div>
-<img src="https://adrianxsalazar.github.io/images/smart-farming_5g_adrian-salazar-gomez-website.png" alt="forecasting broccoli" class="responsivepost">
+<img src="https://schortenger.github.io/images/Roller_Grasper.gif" alt="forecasting broccoli" class="responsivepost">
 </div>
 
-<h5> Research project, <span class="w3-opacity"> January 2021 - present </span></h5> </div>
+<h4> Stanford University, <span class="w3-opacity"> May 2020 - October 2020 </span></h4> </div>
+<h4> Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </span></h4> </div>
 </div>
 
 <div class="w3-container">
-<p>Artificial intelligence (AI) has the potential to transform agriculture with applications on multiple farm robots. AI is not reaching its full potential of real-time, high-speed actionable insights because of significant bottlenecks in the data transmission speed between the robots ​where data is collected and high-performance computers where AI processing takes place.This is limiting the use of intelligent technology on farms. </p>
-
-<p>This project is developing a 5G pipeline to unlock the application of AI on UK farms allowing vast quantities of data, with high-precision location information to move rapidly between robotic devices. It will enable growers to deploy AI-driven smart agriculture technologies to increase productivity and reduce costs overall, facilitating the next generation of UK agriculture.  Please check the following link to the <a href="https://www.ceresagritech.org/projects/agriculture-5-0-unleashing-ai/"> Ceres website.</a> </p></div>
+<p>The ability to perform in-hand manipulation still remains an unsolved problem; Having this capability would allow robots to perform sophisticated tasks requiring repositioning and reorienting of grasped objects. Based on the work of Roller Grasper V1 before, this project aims to achieve dexterous in-hand manipulation through reinforcement learning and imitation learning, and a manipulation graph would be built to finish kinds of complex target positions and orientations. At this moment. the policy learning in simulation environment has finished, and the next step is to transfer it to real hand. </p>
+</div>
 
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
