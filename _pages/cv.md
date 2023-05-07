@@ -62,7 +62,7 @@ redirect_from:
  	<li><b>  Third Prize (2016) </b>  Robomaster 2016 National Robotics Challenge </li>
 <!-- </ul> -->
 
-<h2>Extracurricular and Social Activities</h2>
+</ul><h2>Extracurricular and Social Activities</h2>
 <ul>
   <li><b>Vice President ( 2018.06 - 2019.06) </b> Graduate Student Union in School of Mechanical Engineering </li>
 </ul>

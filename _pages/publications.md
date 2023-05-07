@@ -42,10 +42,10 @@ Wenhai Liu, Weiming Wang, Yang You, Teng Xue, Zhenyu Pan, Jin Qi, Jie Hu <br> <s
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/salazar_et_al_detection_vs_regression.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ViTAC_workshop.png" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-Adrian  Salazar  Gomez,  Simon Parsons, Erchan Aptoula, Petra Bosilj. <br> <strong> Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping </strong> <br>
-<i> In IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2021.3062586. <a href="https://ieeexplore.ieee.org/document/9364677"> [PDF] </a> <a href="https://github.com/adrianxsalazar/Deep_Regression_vs_Detection_for_Counting_in_Robotic_Phenotyping"> [CODE] </a>  </i>  </p> </td>
+Teng Xue, Wenhai Liu, Mingshuo Han, Zhenyu Pan, Jin Ma, Quanquan Shao, Weiming Wang. <br> <strong> Bayesian Grasp: Robotic visual stable grasp based on prior tactile knowledge </strong> <br>
+<i> in ICRA2019 ViTac Workshop. <a href="https://arxiv.org/abs/1905.12920"> [PDF] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -53,10 +53,10 @@ Adrian  Salazar  Gomez,  Simon Parsons, Erchan Aptoula, Petra Bosilj. <br> <stro
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/toward.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/IEEEAccess_2020.png" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez,  Richie Bird,  Amar Singh Kalsi,  Chipp Jansen,  Zeyang Liu,Simon Parsons,  and Elizabeth Sklar <br> <strong> An experiment on human-robot interaction in a simulated agricultural task </strong> <br>
-<i> Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems” (TAROS) </i> <br> <a href="https://link.springer.com/chapter/10.1007/978-3-030-63486-5_25"> [PDF] </a> </p> </td>
+Quanquan Shao; Jie Hu; Weiming Wang; Yi Fang; Teng Xue; Jin Qi<br> <strong> Location Instruction-Based Motion Generation for Sequential Robotic Manipulation </strong> <br>
+<i> in IEEE Access 2020 </i> <br> <a href="https://ieeexplore.ieee.org/abstract/document/8981898"> [PDF] </a> </p> </td>
 </tr>
 </tbody>
 </table>
