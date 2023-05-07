@@ -14,8 +14,8 @@ author_profile: true
 <img src="https://schortenger.github.io/images/Roller_Grasper.gif" alt="forecasting broccoli" class="responsivepost">
 </div>
 
-<h4> Stanford University, <span class="w3-opacity"> May 2020 - October 2020 </span> <br>
-Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </span></h4> 
+<h3> Stanford University, <span class="w3-opacity"> May 2020 - October 2020 </span> <br>
+Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </span></h3> 
 </div>
 
 <div class="w3-container">
@@ -25,16 +25,27 @@ Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbu
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
-<h2><b> Crop forecasting  </b></h2>
+<h2><b> ICRA2018 - Tidy Up My Room Challenge (Inherited from Amazon Robotics Challenge) </b></h2>
 
 <div>
-<img src="https://adrianxsalazar.github.io/images/broccoli_forecasting.png" alt="forecasting broccoli" class="responsivepost">
+<!-- <img src="https://adrianxsalazar.github.io/images/broccoli_forecasting.png" alt="forecasting broccoli" class="responsivepost"> -->
+<table>
+<tr>
+<td width="50%">
+<iframe width="300" height="315" src="https://www.youtube.com/watch?v=DzuT_xpG6L0" frameborder="0" allowfullscreen></iframe>
+<td width="50%">
+<img src="https://schortenger.github.io/images/TidyUpChallenge.jpg" alt="forecasting broccoli" class="responsivepost">
+</td>
+</tr>
+</table>
 </div>
-
-<h5> Research project, <span class="w3-opacity"> August 2020 - present </span></h5> </div>
+<h3> Shanghai Jiao Tong University, <span class="w3-opacity"> Dec 2017 - May 2018 </span> <br>
+Supervisor: <span class="w3-opacity"> Prof. Weiming Wang, Prof. Cewu Lu </span></h3> 
 </div>
 <div class="w3-container">
-<p>This research project aims to build forecasting and decision support systems for the farming industry. These systems will provide farmers with information about the crop yield and crop growing timing. This information will be crucial for better crop utilisation, optimised harvesting, and labour scheduling in agriculture. In this project, I am researching and implementing forecasting tools for this domain. Additionally, I am part of the team in charge of the data collection systems. This project is in partnership with CERES. For more information about the project, please check the following link to the <a href="https://www.ceresagritech.org/projects/broccoli-crop-forecasting/"> Ceres website.</a> .</p> </div>
+<p>The challenge aims to develop a system that can identify objects that are out of place and relocate them to their designated location based on a comprehensive list of appropriate places for objects. This list utilizes a simple "object:furniture" relation model.
+
+To accomplish this, we developed a cutting-edge object detection network that utilizes the state-of-the-art Mask RCNN algorithm to identify both known and unknown objects from the COCO dataset with 100% accuracy. To achieve accurate and efficient object relocation, we employed an advanced grasp planning method based on the detected masks, which resulted in a grasp accuracy of 92%. </p> </div>
 
 
 
