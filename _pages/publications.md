@@ -21,20 +21,20 @@ Teng Xue, Hakan Girgin, Teguh Santoso Lembono, Sylvain Calinon. <br> <strong> De
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/anomaly_detection_strawberries-adrian-salazar-gomez-website.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/Sensors2020.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-Taeyeong Choi, Owen Would, Adrian  Salazar  Gomez, Grzegorz Cielniak. <br> <strong>Self-supervised Representation Learning for Reliable Robotic Monitoring of Fruit Anomalies </strong> <br>
-<i> In arXiv, submitted to international conference in robotics and automation 2022 (ICRA 2022)  <a  href="https://arxiv.org/pdf/2109.10135.pdf"> [PDF] </a> <a href="https://github.com/ctyeong/CH-Rand"> [CODE] </a> <a href="https://github.com/ctyeong/Riseholme-2021"> [DATASET] </a>  </i>  </p> </td>
+Teng Xue; Weiming Wang; Jin Ma; Wenhai Liu; Zhenyu Pan; Mingshuo Han. <br> <strong>Progress and Prospects of Multimodal Fusion Methods in Physical Human–Robot Interaction: A Review </strong> <br>
+<i> in IEEE Sensors Journal, 2022 <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094690"> [PDF] </a> <a href="https://github.com/ctyeong/CH-Rand"> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/robot_5g_adrian-salazar-gomez-website.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RAS2022.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-Adrian  Salazar  Gomez,  Tsvetan Zhivkov, Junfeng Gao, Elizabeth I Sklar, Simon Parsons. <br> <strong> The need for speed: How 5G communication can support AI in the field </strong> <br>
-<i> Proceedings of the UKRAS21 Conference: “Robotics at Home”. <a href="https://www.researchgate.net/profile/Adrian-Salazar-Gomez/publication/352357727_The_need_for_speed_How_5G_communication_can_support_AI_in_the_field/links/60c506a64585157774d22d77/The-need-for-speed-How-5G-communication-can-support-AI-in-the-field.pdf"> [PDF] </a>  </i>  </p> </td>
+Wenhai Liu, Weiming Wang, Yang You, Teng Xue, Zhenyu Pan, Jin Qi, Jie Hu <br> <strong> Robotic picking in dense clutter via domain invariant learning from synthetic dense cluttered rendering </strong> <br>
+<i> in Robotics and Autonomous Systems, 2022 <a href="https://www.researchgate.net/profile/Adrian-Salazar-Gomez/publication/352357727_The_need_for_speed_How_5G_communication_can_support_AI_in_the_field/links/60c506a64585157774d22d77/The-need-for-speed-How-5G-communication-can-support-AI-in-the-field.pdf"> [PDF] </a>  </i>  </p> </td>
 </tr>
 </tbody>
 </table>
