@@ -49,6 +49,7 @@ redirect_from:
   {% endfor %}</ul>
 
 <h2>Awards</h2>
+
 <ul>
   <li><b>Outstanding Winner, 1/8085 (2017) </b> The 2017 Mathematics Contest in Modeling held by 
   	<a href="https://www.comap.com/contests/mcm-icm"> American Consortium for Mathematics and Its Application (COMAP) </a>
@@ -64,6 +65,7 @@ redirect_from:
 </ul>
 
 <h2>Extracurricular and Social Activities</h2>
+
 <ul>
   <li><b>Vice President ( 2018.06 - 2019.06) </b> Graduate Student Union in School of Mechanical Engineering </li>
 
@@ -72,7 +74,9 @@ redirect_from:
 
 
 <h2>Service</h2>
+
 <li> <h3>Reviewer</h3>
+
 <ul>
  	<li>Journal: IEEE Sensors Journal </li>
 
