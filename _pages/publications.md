@@ -25,7 +25,7 @@ Teng Xue, Hakan Girgin, Teguh Santoso Lembono, Sylvain Calinon. <br> <strong> De
 <td style= "height=120px; vertical-align: top;"> <p>
 Teng Xue; Weiming Wang; Jin Ma; Wenhai Liu; Zhenyu Pan; Mingshuo Han. <br> <strong>Progress and Prospects of Multimodal Fusion Methods in Physical Human–Robot Interaction: A Review </strong> <br>
 <i> In IEEE Sensors Journal, 2020.  
-<br> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094690"> [PDF] </a> </i>  </p> </td>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094690"> [PDF] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>

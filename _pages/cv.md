@@ -57,12 +57,14 @@ redirect_from:
   	</li>
 	<li><b>First prize (2014) </b> The 6th national mathematics contest for college students</li>
  	<li><b>  Tang Lixin Scholarship (2018) </b>  Award to students ranking Top 0.5% </li>
- 	<li><b>  Chinese National Scholarship (2014 & 2018) </b>  Award to students ranking Top 1% </li>
+ 	<li><b>  Chinese National Scholarship (2014 & 2018) </b>  Award to students ranking Top 1%</li>
  	<li><b>  First Place (2018) </b>  Tidy Up My Room Chanllenge, Organized by <a href="https://roboticvision.org/"> Australian Centre for Robotic Vision  </a> in ICRA 2018
- 	<li><b>  Third Prize (2016) </b>  Robomaster 2016 National Robotics Challenge </li>
+ 	<li><b>  Third Prize (2016) </b>  Robomaster 2016 National Robotics Challenge</li>
+ </ul>
 <!-- </ul> -->
 
-</ul><h2>Extracurricular and Social Activities</h2>
+<h2>Extracurricular and Social Activities</h2>
+
 <ul>
   <li><b>Vice President ( 2018.06 - 2019.06) </b> Graduate Student Union in School of Mechanical Engineering </li>
 </ul>
