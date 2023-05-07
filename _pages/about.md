@@ -21,6 +21,15 @@ Recent News
 
 <p>(2020/05) One paper about <strong> Multimodel Funsion in pHRI </strong> is accepted to IEEE sensors journal!</p>
 
+<p>(2020/02) One paper about <strong> Sequential Robot Manipulation </strong> is accepted to IEEE Access!</p>
+
+<p>(2019/05) One paper about <strong> Tactile Grasping </strong> is accepted to ViTac workshop in ICRA 2019!</p>
+
+<p>(2018/05) Our team， Kaibot, won the <strong> First Place </strong> in Tidy Up My Room Challenge in ICRA 2018! </p>
+
+<p>(2017/02) We won <strong> Outstanding Winner </strong> of MCM/ICM competition held by <a href="https://www.comap.com/contests/mcm-icm"> American Consortium for Mathematics and Its Application (COMAP) </a>. </p>
+
+
 <!-- <h2> News </h2>
 
 <p> <strong> 2021/02 </strong> <br>
