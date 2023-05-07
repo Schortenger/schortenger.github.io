@@ -33,14 +33,15 @@ Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbu
 <tr>
 <td width="50%">
 <iframe width="300" height="315" src="https://www.youtube.com/watch?v=DzuT_xpG6L0" frameborder="0" allowfullscreen></iframe>
+</td>
 <td width="50%">
 <img src="https://schortenger.github.io/images/TidyUpChallenge.jpg" alt="forecasting broccoli" class="responsivepost">
 </td>
 </tr>
 </table>
 </div>
-<h3> Shanghai Jiao Tong University, <span class="w3-opacity"> Dec 2017 - May 2018 </span> <br>
-Supervisor: <span class="w3-opacity"> Prof. Weiming Wang, Prof. Cewu Lu </span></h3> 
+<h4> Shanghai Jiao Tong University, <span class="w3-opacity"> Dec 2017 - May 2018 </span> <br>
+Supervisor: <span class="w3-opacity"> Prof. Weiming Wang, Prof. Cewu Lu </span></h4> 
 </div>
 <div class="w3-container">
 <p>The challenge aims to develop a system that can identify objects that are out of place and relocate them to their designated location based on a comprehensive list of appropriate places for objects. This list utilizes a simple "object:furniture" relation model.

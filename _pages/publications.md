@@ -56,7 +56,7 @@ Teng Xue, Wenhai Liu, Mingshuo Han, Zhenyu Pan, Jin Ma, Quanquan Shao, Weiming W
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/IEEEAccess_2020.png" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Quanquan Shao; Jie Hu; Weiming Wang; Yi Fang; Teng Xue; Jin Qi<br> <strong> Location Instruction-Based Motion Generation for Sequential Robotic Manipulation </strong> <br>
-<i> in IEEE Access 2020 </i> <br> <a href="https://ieeexplore.ieee.org/abstract/document/8981898"> [PDF] </a> </p> </td>
+<i> in IEEE Access 2020. </i> <a href="https://ieeexplore.ieee.org/abstract/document/8981898"> [PDF] </a> </p> </td>
 </tr>
 </tbody>
 </table>
