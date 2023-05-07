@@ -24,7 +24,7 @@ Teng Xue, Hakan Girgin, Teguh Santoso Lembono, Sylvain Calinon. <br> <strong> De
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/Sensors2020.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Teng Xue; Weiming Wang; Jin Ma; Wenhai Liu; Zhenyu Pan; Mingshuo Han. <br> <strong>Progress and Prospects of Multimodal Fusion Methods in Physical Human–Robot Interaction: A Review </strong> <br>
-<i> in IEEE Sensors Journal, 2022 <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094690"> [PDF] </a> <a href="https://github.com/ctyeong/CH-Rand"> </i>  </p> </td>
+<i> in IEEE Sensors Journal, 2020 <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094690"> [PDF] </a> <a href="https://github.com/ctyeong/CH-Rand"> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
