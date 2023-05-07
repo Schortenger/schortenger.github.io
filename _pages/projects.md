@@ -54,7 +54,7 @@ Supervisor: <span class="w3-opacity"> David Hoeller, Dr. Martin Wermelinger, Pro
 <table>
 <tr>
 <td width="50%">
-<iframe width="315" height="300" src="https://www.youtube.com//embed/DzuT_xpG6L0" frameborder="0" allowfullscreen></iframe>
+<iframe width="315" height="250" src="https://www.youtube.com//embed/DzuT_xpG6L0" frameborder="0" allowfullscreen></iframe>
 </td>
 <td width="50%" style="width:315; height=300; vertical-align: top;" >
 <img  src="https://schortenger.github.io/images/TidyUpChallenge.jpg" width="315" height="300" alt="forecasting broccoli" class="responsivepost">
@@ -108,7 +108,7 @@ To accomplish this, we developed a cutting-edge object detection network that ut
 <td width="50%">
 <iframe width="315" height="250" src="https://www.youtube.com//embed/JFsCFY9m_0M" frameborder="0" allowfullscreen></iframe>
 </td>
-<td width="50%" style="width:315; height=300; vertical-align: middle;" >
+<td width="50%" style="width:315; height=315; vertical-align: middle;" >
 <img  src="https://schortenger.github.io/images/DJI_camp.jpg" width="315" height="300" alt="forecasting broccoli" class="responsivepost">
 </td>
 </tr>
