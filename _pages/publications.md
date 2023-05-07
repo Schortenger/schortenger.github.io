@@ -24,7 +24,8 @@ Teng Xue, Hakan Girgin, Teguh Santoso Lembono, Sylvain Calinon. <br> <strong> De
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/Sensors2020.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Teng Xue; Weiming Wang; Jin Ma; Wenhai Liu; Zhenyu Pan; Mingshuo Han. <br> <strong>Progress and Prospects of Multimodal Fusion Methods in Physical Human–Robot Interaction: A Review </strong> <br>
-<i> in IEEE Sensors Journal, 2020 <a  href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094690"> [PDF] </a> <a href="https://github.com/ctyeong/CH-Rand"> </i>  </p> </td>
+<i> In IEEE Sensors Journal, 2020.  
+<br> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094690"> [PDF] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -34,7 +35,7 @@ Teng Xue; Weiming Wang; Jin Ma; Wenhai Liu; Zhenyu Pan; Mingshuo Han. <br> <stro
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RAS2022.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Wenhai Liu, Weiming Wang, Yang You, Teng Xue, Zhenyu Pan, Jin Qi, Jie Hu <br> <strong> Robotic picking in dense clutter via domain invariant learning from synthetic dense cluttered rendering </strong> <br>
-<i> in Robotics and Autonomous Systems, 2022 <a href="https://www.researchgate.net/profile/Adrian-Salazar-Gomez/publication/352357727_The_need_for_speed_How_5G_communication_can_support_AI_in_the_field/links/60c506a64585157774d22d77/The-need-for-speed-How-5G-communication-can-support-AI-in-the-field.pdf"> [PDF] </a>  </i>  </p> </td>
+<i> in Robotics and Autonomous Systems, 2022 <a href="https://www.sciencedirect.com/science/article/pii/S092188902100186X"> [PDF] </a>  </i>  </p> </td>
 </tr>
 </tbody>
 </table>
