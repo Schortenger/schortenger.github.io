@@ -39,13 +39,10 @@ Supervisor: <span class="w3-opacity"> David Hoeller, Dr. Martin Wermelinger, Pro
 </div>
 <div class="w3-row">
 <div class="w3-col m8 s12">
-<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="<div class="w3-row">
-<div class="w3-col m8 s12">
-<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" > <b> Presentation Slides » </b> </a> </button></p></div>
-</div>
-</div>" > <b> Presentation Slides » </b> </a> </button></p></div>
+<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://xueteng.weebly.com/uploads/1/2/6/8/126869231/tengxue_presentation_compressed.pdf" > <b> Presentation Slides » </b> </a> </button></p></div>
 </div>
 </div>
+
 
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
@@ -103,21 +100,27 @@ To accomplish this, we developed a cutting-edge object detection network that ut
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
-<h2><b> 3D Generative Adversarial networks (GANs)  </b></h2>
+<h2><b> DJI Summer Camp - Aircraft grasping and delivery </b></h2>
 
 <div>
-<img src="https://adrianxsalazar.github.io/images/a_salazar_3dgans.png" alt="3dgans" class="responsivepost">
+<table>
+<tr>
+<td width="50%">
+<iframe width="315" height="300" src="https://www.youtube.com//embed/JFsCFY9m_0M" frameborder="0" allowfullscreen></iframe>
+</td>
+<td width="50%" style="width:315; height=300; vertical-align: top;" >
+<img  src="https://schortenger.github.io/images/DJI_camp.jpg" width="315" height="300" alt="forecasting broccoli" class="responsivepost">
+</td>
+</tr>
+</table>
 </div>
-
-<h5> Master thesis project, <span class="w3-opacity"> January 2019 - August 2019 </span></h5> </div>
+<h4> Shenzhen DJI Innovation and Technology Co., Ltd., <span class="w3-opacity"> July 2016 - August 2016 </span> <br>
+Supervisor: <span class="w3-opacity"> Shuo Yang (Former DJI Director of Intelligent Navigation Technology) </span></h4> 
 </div>
 <div class="w3-container">
-<p>This is my final master project with <a href="https://scholar.google.com/citations?hl=en&user=zzLBKmgAAAAJ&view_op=list_works&sortby=pubdate">Dr. Michael Brendam</a> at King's College London. This project evaluates the potential of Generative Adversarial Networks (GANs) to learn the distribution of 3D structures. Then, use the learned ditributions to generate new data with the intrinsic characteristics of the original source. We show that is possible to improve the classification of 3D human representations by generating extra data using 3D GANs. Potential application of our findings lies on better human action detection systems for autonomous systems and improving the analysis of 3D medical data.</p>
-<div class="w3-row">
-<div class="w3-col m8 s12">
-<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" > <b> READ MORE » </b> </a> </button></p></div>
-</div>
-</div>
+<p>Description: Two kinds of dolls (Hippos and octopuses) are needed to grasp and delivered by a drone, involving object detection, path planning and mechanical design. 
+<li>Inspired by tentacles of octopuses, a grasping and releasing mechanical structure was designed, and the overall weight was only 20g, guaranteeing the flight performance of the aircraft. </li>
+<li>NC programming and carbon fiber processing by hand with an numerical control machine. </li></p> </div>
 
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
