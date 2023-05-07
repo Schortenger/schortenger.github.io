@@ -105,10 +105,10 @@ To accomplish this, we developed a cutting-edge object detection network that ut
 <div>
 <table>
 <tr>
-<td width="50%">
+<td width="40%">
 <iframe width="315" height="250" src="https://www.youtube.com//embed/JFsCFY9m_0M" frameborder="0" allowfullscreen></iframe>
 </td>
-<td width="50%" style="width:315; height=315; vertical-align: middle;" >
+<td width="50%" style="width:315; height=300; vertical-align: middle;" >
 <img  src="https://schortenger.github.io/images/DJI_camp.jpg" width="315" height="300" alt="forecasting broccoli" class="responsivepost">
 </td>
 </tr>
@@ -121,20 +121,5 @@ Supervisor: <span class="w3-opacity"> Shuo Yang (Former DJI Director of Intellig
 <p>Description: Two kinds of dolls (Hippos and octopuses) are needed to grasp and delivered by a drone, involving object detection, path planning and mechanical design. 
 <li>Inspired by tentacles of octopuses, a grasping and releasing mechanical structure was designed, and the overall weight was only 20g, guaranteeing the flight performance of the aircraft. </li>
 <li>NC programming and carbon fiber processing by hand with an numerical control machine. </li></p> </div>
-
-
-<div class="w3-card-4 w3-margin w3-Dark Gray">
-<div class="w3-container w3-Dark Gray">
-<h2><b> Explainable Artificial Intelligence: A review of the literature </b></h2>
-
-<h5> Literature review project,   <span class="w3-opacity"> October 2018 - May 2019 </span></h5> </div>
-<div class="w3-container">
-<p>This project involves a literature review in the area of explainable Artificial Intelligence that I made for the module "advanced research topics" with  <a href="https://scholar.google.com/citations?hl=en&user=JSARf0MAAAAJ&view_op=list_works&sortby=pubdate">Dr. Sanjay Modgil</a> at King's College London. Our focus was to report a comprehensive review of the trends and development in explainable Artificial Intelligence. So, other researchers can use this review as a starting point to develop explainable AI tools. </p>
-<div class="w3-row">
-<div class="w3-col m8 s12">
-<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/XAI_Adrian_salazar_Literature_Review.pdf" > <b> READ MORE » </b> </a> </button></p></div>
-</div>
-</div>
-
 
 </div>
