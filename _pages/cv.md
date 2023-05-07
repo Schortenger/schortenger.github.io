@@ -20,7 +20,6 @@ redirect_from:
 
 <h2>Research experience</h2>
 <ul>
-
 <li><b>2021.03 ~ 2021.08: Research Intern</b></li>
 	<ul>
 	  <li>Flexiv Robotics Inc. 非夕机器人</li>
@@ -50,14 +49,11 @@ redirect_from:
   {% endfor %}</ul>
 
 <h2>Awards</h2>
-
 <ul>
   <li><b>Outstanding Winner, 1/8085 (2017) </b> The 2017 Mathematics Contest in Modeling held by 
   	<a href="https://www.comap.com/contests/mcm-icm"> American Consortium for Mathematics and Its Application (COMAP) </a>
   	</li>
-
 	<li><b>First prize (2014) </b> The 6th national mathematics contest for college students</li>
-
  	<li><b>  Tang Lixin Scholarship (2018) </b>  Award to students ranking Top 0.5% </li>
  	<li><b>  Chinese National Scholarship (2014 & 2018) </b>  Award to students ranking Top 1% </li>
  	<li><b>  1st Place (2018) </b>  Tidy Up My Room Chanllenge, Organized by <a href="https://roboticvision.org/"> Australian Centre for Robotic Vision  </a> in ICRA 2018
@@ -65,7 +61,6 @@ redirect_from:
 </ul>
 
 <h2>Extracurricular and Social Activities</h2>
-
 <ul>
   <li><b>Vice President ( 2018.06 - 2019.06) </b> Graduate Student Union in School of Mechanical Engineering </li>
 
@@ -74,9 +69,7 @@ redirect_from:
 
 
 <h2>Service</h2>
-
-<li> <h3>Reviewer</h3>
-
+<ul><h3>Reviewer</h3>
 <ul>
  	<li>Journal: IEEE Sensors Journal </li>
 
