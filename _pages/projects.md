@@ -32,10 +32,10 @@ Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbu
 <table>
 <tr>
 <td width="50%">
-<iframe width="300" height="315" src="https://www.youtube.com//embed/DzuT_xpG6L0" frameborder="0" allowfullscreen></iframe>
+<iframe width="315" height="300" src="https://www.youtube.com//embed/DzuT_xpG6L0" frameborder="0" allowfullscreen></iframe>
 </td>
 <td width="50%">
-<img src="https://schortenger.github.io/images/TidyUpChallenge.jpg" alt="forecasting broccoli" class="responsivepost">
+<img src="https://schortenger.github.io/images/TidyUpChallenge.jpg" width="300" height="300" alt="forecasting broccoli" class="responsivepost">
 </td>
 </tr>
 </table>
@@ -52,15 +52,27 @@ To accomplish this, we developed a cutting-edge object detection network that ut
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
-<h2><b> Robot Co-Labourers for Intelligent Farming </b></h2>
+<h2><b> COMAP's Mathematical Contest in Modeling (MCM) </b></h2>
 <div>
-<img src="https://adrianxsalazar.github.io/images/a_salazar_straw_detection.png" alt="detectionsample" class="responsivepost">
+<table>
+<tr>
+<td width="50%">
+<img src="https://schortenger.github.io/images/mcm-icm.jpg" width="300" height="300" alt="forecasting broccoli" class="responsivepost">
+</td>
+<td width="50%">
+<img src="https://schortenger.github.io/images/mcm_paper.jpg" width="300" height="300" alt="forecasting broccoli" class="responsivepost">
+</td>
+</tr>
+</table>
 </div>
-<h5>Research project, <span class="w3-opacity"> April, 2019 - Ongoing </span></h5> </div>
+<h5>Outstanding Winner（1/8085）</span></h5> </div>
 </div>
 
 <div class="w3-container">
-<p>This is an ongoing project at King's College London at the interactionLAb. We are focused on studying methods to enable collaborations between human and robots in agricultural settings. Among the multiple research outputs, our studies show how to improve human opinion towards robot ro-workers. For more information about these topics you can take a look to our <a href="https://adrianxsalazar.github.io/publications/">publications</a>. Within this project, I am particularly interested in adapting computer vision algorithms to make them trustworthy.</p>
+<p>Description: Sustainable Cities Needed! The International City Management Group needs help for implementing smart growth theories into city design around the world. The detailed information can be seen here.
+<li><b>A three dimensional baseline cube model is developed to measure the success of smart growth of a city.</b></li>
+<li><b>Economic Development Index (EDI), Social Justice Index (SJI) and Environment Performance Index (EPI) are defined to evaluate city development.</b></li>
+<li><b>The most influential factors in city budget is shed light on and a smart growth plan is put forward.</b></li></p>
 
 <div class="w3-row">
 <div class="w3-col m8 s12">
