@@ -7,7 +7,7 @@ author_profile: true
 <h3>Demonstration-guided Optimal Control for Long-term Non-prehensile Planar Manipulation (ICRA 2023)</h3>
 
 <ul>
-	<iframe width='320' height='240' src='https://www.youtube.com//embed/ZoH_56YhcAA' frameborder='0' allowfullscreen></iframe>
+	<iframe width='160' height='120' src='https://www.youtube.com//embed/ZoH_56YhcAA' frameborder='0' allowfullscreen></iframe>
 </ul>
 
 <!-- ---
