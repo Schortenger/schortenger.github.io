@@ -15,6 +15,8 @@ You can find my previous personal website <a href="https://xueteng.weebly.com/">
 
 Recent News
 ======
+<p>(2023/02) One extended abstract about <strong>Optimal Control with Human Help</strong> is accepted to <a href="https://life-long-learning-with-human-help-l3h2.github.io/"> Life-Long Learning wiht Human Help (L3H2)</a> workshop held in ICRA 2023!</p>
+
 <p>(2023/02) One paper about <strong>Non-prehensile Planar Manipulation</strong> is accepted to ICRA 2023!</p>
 
 <p>(2022/01) One paper about <strong> Robot Grasping in Dense Clutter</strong> is accepted to Robotics and Autonomous Systems!</p>
@@ -27,7 +29,7 @@ Recent News
 
 <p>(2018/05) Our team， Kaibot, won the <strong> First Place </strong> in Tidy Up My Room Challenge in ICRA 2018! </p>
 
-<p>(2017/02) We won the <strong> Outstanding Winner (1/8085)</strong> of MCM/ICM competition held by <a href="https://www.comap.com/contests/mcm-icm"> American Consortium for Mathematics and Its Application (COMAP) </a>. A nice collaboration with Yasheng and Taihang!  </p>
+<p>(2017/02) We won the <strong> Outstanding Winner (1/8085)</strong> of MCM/ICM competition held by <a href="https://www.comap.com/contests/mcm-icm"> American Consortium for Mathematics and Its Application (COMAP)</a>. A nice collaboration with Yasheng and Taihang!  </p>
 
 
 <!-- <h2> News </h2>
