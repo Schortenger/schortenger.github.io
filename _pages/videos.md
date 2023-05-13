@@ -7,7 +7,7 @@ author_profile: true
 <h2>Demonstration-guided Optimal Control for Long-term Non-prehensile Planar Manipulation</h2>
 
 <ul>
-	<li><iframe width='250' height='200' src='https://www.youtube.com//embed/ZoH_56YhcAA' frameborder='0' allowfullscreen></iframe> </li>
+	<iframe width='50%' height='50%' src='https://www.youtube.com//embed/ZoH_56YhcAA' frameborder='0' allowfullscreen></iframe>
 </ul>
 
 <!-- ---
