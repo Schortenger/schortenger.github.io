@@ -186,6 +186,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  video:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -233,6 +236,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _video
+  - scope:
+      path: ""
+      type: video
     values:
       layout: single
       author_profile: true
