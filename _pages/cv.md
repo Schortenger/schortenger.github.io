@@ -6,9 +6,10 @@ redirect_from:
   - /resume
 ---
 
+
 <div class="text-justify">
 
-<!-- <p>You can downdload a detailed pdf version of my CV in the following link <a href="https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p> -->
+<p>You can downdload a detailed pdf version of my CV in the following link <a href="https://schortenger.github.io/files/TengXue_CV.pdf">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
 
 <h2>Education</h2>
 
