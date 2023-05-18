@@ -15,7 +15,9 @@ You can find my previous personal website <a href="https://xueteng.weebly.com/">
 
 Recent News
 ======
-<p>(2023/05) One extended abstract about <strong>Optimal Control with Human Help</strong> is accepted to <a href="https://life-long-learning-with-human-help-l3h2.github.io/"> Life-Long Learning wiht Human Help (L3H2)</a> workshop held in ICRA 2023!</p>
+<p>(2023/05) One abstract paper about <strong>Contract-rich Manipulation</strong> is accepted to <a href="https://sites.google.com/view/icra2023embracingcontacts/home?authuser=0"> Embracing contacts. Making robots physically interact with our world</a> workshop held in ICRA 2023!</p>
+
+<p>(2023/05) One abstract paper about <strong>Optimal Control with Human Help</strong> is accepted to <a href="https://life-long-learning-with-human-help-l3h2.github.io/"> Life-Long Learning wiht Human Help (L3H2)</a> workshop held in ICRA 2023!</p>
 
 <p>(2023/02) One paper about <strong>Non-prehensile Planar Manipulation</strong> is accepted to ICRA 2023!</p>
 
