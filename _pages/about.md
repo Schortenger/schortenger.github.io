@@ -35,7 +35,7 @@ Recent News
 
 <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
         <h3> Analytics </h3>
-        {% include clustrmap.html style="js" %}
+        {% include clustermap.html style="js" %}
         <p> <small> If you are not seeing a map, please disable Ad block and refresh </small></p>
 </div>
 
