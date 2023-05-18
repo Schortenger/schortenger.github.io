@@ -33,11 +33,13 @@ Recent News
 
 <p>(2017/02) We won the <strong> Outstanding Winner (1/8085)</strong> of MCM/ICM competition held by <a href="https://www.comap.com/contests/mcm-icm"> American Consortium for Mathematics and Its Application (COMAP)</a>. A nice collaboration with Yasheng and Taihang!  </p>
 
-<div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
-        <h3> Analytics </h3>
-        {% include clustermap.html style="js" %}
-        <p> <small> If you are not seeing a map, please disable Ad block and refresh </small></p>
-</div>
+
+{% include clustermap.html style="js" %}
+<!-- <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
+    <h3> Analytics </h3>
+    {% include clustermap.html style="js" %}
+    <p> <small> If you are not seeing a map, please disable Ad block and refresh </small></p>
+</div> -->
 
 <!-- <h2> News </h2>
 
