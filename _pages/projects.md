@@ -16,11 +16,12 @@ This site shows some interesting projects I did before my PhD studies.
 <img src="https://schortenger.github.io/images/Roller_Grasper.gif" alt="forecasting broccoli" class="responsivepost">
 </div>
 
-<h3> Stanford University, May 2020 - October 2020 <br>
-Supervisor: Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </h3> 
-</div>
+
+<!-- </div> -->
 
 <div class="w3-container">
+<h3> Stanford University, May 2020 - October 2020 <br>	
+Supervisor: Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </h3> 
 <p>The ability to perform in-hand manipulation still remains an unsolved problem; Having this capability would allow robots to perform sophisticated tasks requiring repositioning and reorienting of grasped objects. Based on the work of Roller Grasper V1 before, this project aims to achieve dexterous in-hand manipulation through reinforcement learning and imitation learning, and a manipulation graph would be built to finish kinds of complex target positions and orientations. At this moment. the policy learning in simulation environment has finished, and the next step is to transfer it to real hand. </p>
 </div>
 
