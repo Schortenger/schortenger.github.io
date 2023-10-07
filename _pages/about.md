@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Teng Xue, a PhD student at Ecole Polytechnique Federale de Lausanne (EPFL) and a research assistant at Robot Learning and Interaction Group (RLI), Idiap Research Institute, supervised by Dr. [Sylvain Calinon](https://calinon.ch/). Before joining Idiap/EPFL, I was fortunate to work as a research intern at [ETH RSL](https://rsl.ethz.ch/), supervised by Prof. [Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), and [Stanford Artificial Intelligence Lab (SAIL)] (https://ai.stanford.edu/), supervised by Dr. [Shenli Yuan] (https://yuanshenli.com/) and Prof. [J. Kenneth Salisbury] (https://sr.stanford.edu/?page_id=1217).
+I am Teng Xue, a PhD student at Ecole Polytechnique Federale de Lausanne (EPFL) and a research assistant at Robot Learning and Interaction Group (RLI), Idiap Research Institute, supervised by Dr. [Sylvain Calinon](https://calinon.ch/). Before joining Idiap/EPFL, I was fortunate to work as a research intern at [ETH RSL](https://rsl.ethz.ch/), supervised by Prof. [Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), and [Stanford Artificial Intelligence Lab (SAIL)](https://ai.stanford.edu/), supervised by Dr. [Shenli Yuan](https://yuanshenli.com/) and Prof. [J. Kenneth Salisbury](https://sr.stanford.edu/?page_id=1217).
 
 I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, especially long-term contact-rich manipulation, by leveraging the tools in optimization and machine learning.
 

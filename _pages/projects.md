@@ -16,8 +16,8 @@ This site shows some interesting projects I did before my PhD studies.
 <img src="https://schortenger.github.io/images/Roller_Grasper.gif" alt="forecasting broccoli" class="responsivepost">
 </div>
 
-<h3> Stanford University, <span class="w3-opacity"> May 2020 - October 2020 </span> <br>
-Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </span></h3> 
+<h3> Stanford University, May 2020 - October 2020 <br>
+Supervisor: Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </h3> 
 </div>
 
 <div class="w3-container">
