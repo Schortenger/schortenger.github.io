@@ -20,6 +20,7 @@ This site shows some interesting projects I did before my PhD studies.
 <!-- </div> -->
 
 <div class="w3-container">
+	<br>	
 <p> Stanford University, May 2020 - October 2020 <br>	
 Supervisor: Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </p> 
 <p>The ability to perform in-hand manipulation still remains an unsolved problem; Having this capability would allow robots to perform sophisticated tasks requiring repositioning and reorienting of grasped objects. Based on the work of Roller Grasper V1 before, this project aims to achieve dexterous in-hand manipulation through reinforcement learning and imitation learning, and a manipulation graph would be built to finish kinds of complex target positions and orientations. At this moment. the policy learning in simulation environment has finished, and the next step is to transfer it to real hand. </p>
@@ -33,11 +34,11 @@ Supervisor: Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </p>
 <img src="https://schortenger.github.io/images/FestoHand.png" alt="forecasting broccoli" class="responsivepost">
 </div>
 
-<h3> ETH Zurich, <span class="w3-opacity"> Oct. 2019 - mar. 2020 </span> <br>
-Supervisor: <span class="w3-opacity"> David Hoeller, Dr. Martin Wermelinger, Prof. Marco Hutter </span></h3> 
-</div>
 
 <div class="w3-container">
+		<br>	
+<p> ETH Zurich, Oct. 2019 - mar. 2020 <br>	
+Supervisor: David Hoeller, Dr. Martin Wermelinger, Prof. Marco Hutter </p> 
 <p>This project addressed the problem of pose estimation and control of soft robot hand. As soft hand is of no rigid body dynamics constraints, it’s difficult to model and predict the pose. We proposed a novel framework for dexterous manipulation of soft hand, which combined state-of-the-art methods for learning-based modelling and reinforcement learning. What’s more, we transferred it to the real hand system and verified the efficiency of the whole pipeline through some dexterous manipulation tasks. </p>
 </div>
 <div class="w3-row">
@@ -65,10 +66,11 @@ Supervisor: <span class="w3-opacity"> David Hoeller, Dr. Martin Wermelinger, Pro
 </tr>
 </table>
 </div>
-<h3> Shanghai Jiao Tong University, <span class="w3-opacity"> Dec 2017 - May 2018 </span> <br>
-Supervisor: <span class="w3-opacity"> Prof. Weiming Wang, Prof. Cewu Lu </span></h3> 
-</div>
+
 <div class="w3-container">
+	<br>	
+<p> Shanghai Jiao Tong University, Dec 2017 - May 2018 <br>	
+Supervisor: Prof. Weiming Wang, Prof. Cewu Lu </p> 
 <p>The challenge aims to develop a system that can identify objects that are out of place and relocate them to their designated location based on a comprehensive list of appropriate places for objects. This list utilizes a simple "object:furniture" relation model.
 
 To accomplish this, we developed a cutting-edge object detection network that utilizes the state-of-the-art Mask RCNN algorithm to identify both known and unknown objects from the COCO dataset with 100% accuracy. To achieve accurate and efficient object relocation, we employed an advanced grasp planning method based on the detected masks, which resulted in a grasp accuracy of 92%. </p> </div>
