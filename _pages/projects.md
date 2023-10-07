@@ -119,10 +119,11 @@ To accomplish this, we developed a cutting-edge object detection network that ut
 </tr>
 </table>
 </div>
-<h4> Shenzhen DJI Innovation and Technology Co., Ltd., <span class="w3-opacity"> July 2016 - August 2016 </span> <br>
-Supervisor: <span class="w3-opacity"> Shuo Yang (Former DJI Director of Intelligent Navigation Technology) </span></h4> 
-</div>
+
 <div class="w3-container">
+	<br>	
+<p> Shenzhen DJI Innovation and Technology Co., Ltd., July 2016 - August 2016 <br>	
+Supervisor: Shuo Yang (Former DJI Director of Intelligent Navigation Technology) </p> 
 <p>Description: Two kinds of dolls (Hippos and octopuses) are needed to grasp and delivered by a drone, involving object detection, path planning and mechanical design. 
 <li>Inspired by tentacles of octopuses, a grasping and releasing mechanical structure was designed, and the overall weight was only 20g, guaranteeing the flight performance of the aircraft. </li>
 <li>NC programming and carbon fiber processing by hand with an numerical control machine. </li></p> </div>
