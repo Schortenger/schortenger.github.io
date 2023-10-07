@@ -16,8 +16,8 @@ This site shows some interesting projects I did before my PhD studies.
 <img src="https://schortenger.github.io/images/Roller_Grasper.gif" alt="forecasting broccoli" class="responsivepost">
 </div>
 
-<h4> Stanford University, <span class="w3-opacity"> May 2020 - October 2020 </span> <br>
-Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </span></h4> 
+<h3> Stanford University, <span class="w3-opacity"> May 2020 - October 2020 </span> <br>
+Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </span></h3> 
 </div>
 
 <div class="w3-container">
@@ -32,8 +32,8 @@ Supervisor: <span class="w3-opacity"> Dr. Shenli Yuan, Prof.  J. Kenneth Salisbu
 <img src="https://schortenger.github.io/images/FestoHand.png" alt="forecasting broccoli" class="responsivepost">
 </div>
 
-<h4> ETH Zurich, <span class="w3-opacity"> Oct. 2019 - mar. 2020 </span> <br>
-Supervisor: <span class="w3-opacity"> David Hoeller, Dr. Martin Wermelinger, Prof. Marco Hutter </span></h4> 
+<h3> ETH Zurich, <span class="w3-opacity"> Oct. 2019 - mar. 2020 </span> <br>
+Supervisor: <span class="w3-opacity"> David Hoeller, Dr. Martin Wermelinger, Prof. Marco Hutter </span></h3> 
 </div>
 
 <div class="w3-container">
@@ -64,8 +64,8 @@ Supervisor: <span class="w3-opacity"> David Hoeller, Dr. Martin Wermelinger, Pro
 </tr>
 </table>
 </div>
-<h4> Shanghai Jiao Tong University, <span class="w3-opacity"> Dec 2017 - May 2018 </span> <br>
-Supervisor: <span class="w3-opacity"> Prof. Weiming Wang, Prof. Cewu Lu </span></h4> 
+<h3> Shanghai Jiao Tong University, <span class="w3-opacity"> Dec 2017 - May 2018 </span> <br>
+Supervisor: <span class="w3-opacity"> Prof. Weiming Wang, Prof. Cewu Lu </span></h3> 
 </div>
 <div class="w3-container">
 <p>The challenge aims to develop a system that can identify objects that are out of place and relocate them to their designated location based on a comprehensive list of appropriate places for objects. This list utilizes a simple "object:furniture" relation model.
