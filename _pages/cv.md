@@ -40,7 +40,7 @@ redirect_from:
 <li><b>2016.07 ~ 2016.08: Research Intern</b></li>
 	<ul>
 	  <li>Da-Jiang Innovations (DJI) 大疆创新</li>
-	  <li>Supervisors: Shuo Yang</li>
+	  <li>Supervisor: Shuo Yang</li>
 	  <li>Topics: Mechanical design for aircraft grasping</li>
 	</ul>
 </ul>

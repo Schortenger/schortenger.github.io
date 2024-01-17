@@ -12,6 +12,18 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ICRA23.png" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
+<strong> Suhan Shetty, <strong> Teng Xue </strong>, Sylvain Calinon. <br> <strong> Generalized Policy Iteration using Tensor Approximation for Hybrid Control </strong> <br>
+<i> In ICLR 2024 (Spotlight).  
+<br> <a href="https://openreview.net/forum?id=csukJcpYDe"> [paper] </a> <a href="https://sites.google.com/view/ttpi4control"> [website] </a>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ICRA23.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Hakan Girgin, Teguh Santoso Lembono, Sylvain Calinon. <br> <strong> Demonstration-guided Optimal Control for Long-term Non-prehensile Planar Manipulation </strong> <br>
 <i> In Proc. IEEE Intl Conf. on Robotics and Automation 2023 (ICRA 2023).  
 <br> <a href="https://arxiv.org/pdf/2212.12814.pdf"> [arxiv] </a> <a href="https://sites.google.com/view/dg-oc/"> [website] </a>  </i>  </p> </td>
