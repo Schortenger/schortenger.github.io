@@ -15,7 +15,7 @@ I am broadly interested in planning and control for robotic systems that can phy
 
 Recent News
 ======
-<p>(2024/01) Our paper about <a href = "https://openreview.net/forum?id=csukJcpYDe"> <strong>Generalized Policy Iteration using Tensor Train</strong> </a> is accepted to ICLR 2024 as <strong>spotlight</strong> paper! A great collaboration with Suhan!</p>
+<p>(2024/01) Our paper about <strong>Generalized Policy Iteration using Tensor Train</strong> is accepted to ICLR 2024 as <strong>spotlight</strong>! A great collaboration with Suhan!</p>
 
 <p>(2023/05) One abstract paper about <<!-- strong>Contract-rich Manipulation</strong> is accepted to <a href="https://sites.google.com/view/icra2023embracingcontacts/home?authuser=0"> Embracing contacts. Making robots physically interact with our world</a> workshop held in ICRA 2023!</p>
 
