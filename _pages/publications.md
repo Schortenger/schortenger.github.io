@@ -10,9 +10,9 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ICRA23.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ttpi.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> Suhan Shetty, <strong> Teng Xue </strong>, Sylvain Calinon. <br> <strong> Generalized Policy Iteration using Tensor Approximation for Hybrid Control </strong> <br>
+Suhan Shetty, <strong> Teng Xue </strong>, Sylvain Calinon. <br> <strong> Generalized Policy Iteration using Tensor Approximation for Hybrid Control </strong> <br>
 <i> In ICLR 2024 (Spotlight).  
 <br> <a href="https://openreview.net/forum?id=csukJcpYDe"> [paper] </a> <a href="https://sites.google.com/view/ttpi4control"> [website] </a>  </i>  </p> </td>
 </tr>
