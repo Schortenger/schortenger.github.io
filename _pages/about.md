@@ -15,13 +15,16 @@ I am broadly interested in planning and control for robotic systems that can phy
 
 Recent News
 ======
-<p>(2024/01) Our paper about <strong>Generalized Policy Iteration using Tensor Train</strong> is accepted to ICLR 2024 as <strong>spotlight</strong>! A great collaboration with Suhan!</p>
+<p>(2024/01) Our paper <a href="https://arxiv.org/pdf/2312.02731.pdf"> D-LGP: Dynamic Logic-Geometric Program for Combined Task and Motion Planning</a> is accepted to ICRA 2024!
+
+<p>(2024/01) Our paper <a href="https://openreview.net/forum?id=csukJcpYDe&referrer=%5Bthe%20profile%20of%20Suhan%20Shetty%5D(%2Fprofile%3Fid%3D~Suhan_Shetty1)"> Generalized Policy Iteration using Tensor Approximation for Hybrid Control</a> is accepted to ICLR 2024 as as <strong>spotlight (Top 5%)</strong>!
+
+<p>(2023/01) Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10161496"> Demonstration-guided Optimal Control for Long-term Non-prehensile Planar Manipulation</a> is accepted to ICRA 2023!
 
 <!-- <p>(2023/05) One abstract paper about <strong>Contract-rich Manipulation</strong> is accepted to <a href="https://sites.google.com/view/icra2023embracingcontacts/home?authuser=0"> Embracing contacts. Making robots physically interact with our world</a> workshop held in ICRA 2023!</p>
 
 <p>(2023/05) One abstract paper about <strong>Optimal Control with Human Help</strong> is accepted to <a href="https://life-long-learning-with-human-help-l3h2.github.io/"> Life-Long Learning wiht Human Help (L3H2)</a> workshop held in ICRA 2023!</p>  -->
 
-<p>(2023/02) One paper about <strong>Non-prehensile Planar Manipulation</strong> is accepted to ICRA 2023!</p>
 
 <p>(2022/01) One paper about <strong> Robot Grasping in Dense Clutter</strong> is accepted to Robotics and Autonomous Systems!</p>
 
@@ -31,7 +34,7 @@ Recent News
 
 <p>(2019/05) One paper about <strong> Tactile Grasping </strong> is accepted to ViTac workshop in ICRA 2019!</p>
 
-<p>(2018/05) Our team， Kaibot, won the <strong> First Place </strong> in Tidy Up My Room Challenge in ICRA 2018! </p>
+<p>(2018/05) Our team, Kaibot, won the <strong> First Place </strong> in Tidy Up My Room Challenge in ICRA 2018! </p>
 
 <p>(2017/02) We won the <strong> Outstanding Winner (1/8085)</strong> of MCM/ICM competition held by <a href="https://www.comap.com/contests/mcm-icm"> American Consortium for Mathematics and Its Application (COMAP)</a>. A nice collaboration with Yasheng and Taihang!  </p>
 

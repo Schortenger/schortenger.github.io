@@ -10,10 +10,21 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <table >
 <tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/icra24.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Teng Xue </strong>, Amirreza Razmjoo, Sylvain Calinon. <br> <strong> GD-LGP: Dynamic Logic-Geometric Program for Combined Task and Motion Planning </strong> <br>
+<i> In Proc. IEEE Intl Conf. on Robotics and Automation 2024 (ICRA 2024).  
+<br> <a href="https://arxiv.org/pdf/2312.02731.pdf"> [paper] </a> <a href="https://sites.google.com/view/dyn-lgp"> [website] </a>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ttpi.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Suhan Shetty, <strong> Teng Xue </strong>, Sylvain Calinon. <br> <strong> Generalized Policy Iteration using Tensor Approximation for Hybrid Control </strong> <br>
-<i> In ICLR 2024 (Spotlight).  
+<i> In ICLR 2024 (Spotlight, Top 5%).  
 <br> <a href="https://openreview.net/forum?id=csukJcpYDe"> [paper] </a> <a href="https://sites.google.com/view/ttpi4control"> [website] </a>  </i>  </p> </td>
 </tr>
 </tbody>
