@@ -17,7 +17,7 @@ Recent News
 ======
 <p>(2024/01) Our paper <a href="https://arxiv.org/pdf/2312.02731.pdf"> D-LGP: Dynamic Logic-Geometric Program for Combined Task and Motion Planning</a> is accepted to ICRA 2024!
 
-<p>(2024/01) Our paper <a href="https://openreview.net/forum?id=csukJcpYDe&referrer=%5Bthe%20profile%20of%20Suhan%20Shetty%5D(%2Fprofile%3Fid%3D~Suhan_Shetty1)"> Generalized Policy Iteration using Tensor Approximation for Hybrid Control</a> is accepted to ICLR 2024 as as <strong>spotlight (Top 5%)</strong>!
+<p>(2024/01) Our paper <a href="https://openreview.net/forum?id=csukJcpYDe&referrer=%5Bthe%20profile%20of%20Suhan%20Shetty%5D(%2Fprofile%3Fid%3D~Suhan_Shetty1)"> Generalized Policy Iteration using Tensor Approximation for Hybrid Control</a> is accepted to ICLR 2024 as <strong>spotlight (Top 5%)</strong>!
 
 <p>(2023/01) Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10161496"> Demonstration-guided Optimal Control for Long-term Non-prehensile Planar Manipulation</a> is accepted to ICRA 2023!
 
