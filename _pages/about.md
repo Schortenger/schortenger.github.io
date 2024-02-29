@@ -28,7 +28,7 @@ Recent News
 
 <p>(2022/01) One paper about <strong> Robot Grasping in Dense Clutter</strong> is accepted to Robotics and Autonomous Systems!</p>
 
-<p>(2020/05) One paper about <strong> Multimodel Funsion in pHRI </strong> is accepted to IEEE sensors journal!</p>
+<p>(2020/05) One paper about <strong> Multimodel Fusion in pHRI </strong> is accepted to IEEE sensors journal!</p>
 
 <p>(2020/02) One paper about <strong> Sequential Robot Manipulation </strong> is accepted to IEEE Access!</p>
 
