@@ -10,6 +10,12 @@ author_profile: true
 	<iframe width='80' height='60' src='https://www.youtube.com//embed/ZoH_56YhcAA' frameborder='0' allowfullscreen></iframe>
 </ul>
 
+<h3>D-LGP: Dynamic Logic-Geometric Program for Reactive Task and Motion Planning (ICRA 2024)</h3>
+
+<ul>
+	<iframe width='80' height='60' src='https://youtu.be/cY2Ub1gC5Lo' frameborder='0' allowfullscreen></iframe>
+</ul>
+
 <!-- ---
 layout: archive
 title: "Videos"
