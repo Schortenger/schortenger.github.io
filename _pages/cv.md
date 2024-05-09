@@ -11,6 +11,9 @@ redirect_from:
 
 <p>You can downdload a detailed pdf version of my CV in the following link <a href="https://schortenger.github.io/files/TengXue_CV.pdf">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
 
+<iframe src="/files/TengXue_CV.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="1000" title="TengXue_CV" frameborder="0" allowfullscreen="true"></iframe> 
+
+<!-- 
 <h2>Education</h2>
 
 <ul>
@@ -65,4 +68,4 @@ redirect_from:
 
 <ul>
   <li><b>Vice President (2018.06 - 2019.06) </b> Graduate Student Union in School of Mechanical Engineering </li>
-</ul>
+</ul> -->
