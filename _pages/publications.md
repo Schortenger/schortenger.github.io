@@ -10,7 +10,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/icra24.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/dlgp.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Sylvain Calinon. <br> <strong> D-LGP: Dynamic Logic-Geometric Program for Combined Task and Motion Planning </strong> <br>
 <i> In Proc. IEEE Intl Conf. on Robotics and Automation 2024 (ICRA 2024).  
