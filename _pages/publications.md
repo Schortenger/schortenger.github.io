@@ -13,7 +13,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RSS24.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning </strong> <br>
-<i> In Proc. IEEE Intl Conf. on Robotics and Automation 2024 (ICRA 2024).  
+<i> In Proc. Robotics: Science and Systems 2024 (RSS 2024).  
 <br> <a href="https://arxiv.org/pdf/2405.04082"> [paper] </a> <a href="https://www.youtube.com/watch?v=GjulH8-qpRA"> [video] </a>  </i>  </p> </td>
 </tr>
 </tbody>
