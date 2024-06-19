@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Past Projects"
 permalink: /projects/
 author_profile: true
 ---

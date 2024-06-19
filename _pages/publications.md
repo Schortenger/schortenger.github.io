@@ -14,7 +14,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning </strong> <br>
 <i> In Proc. Robotics: Science and Systems 2024 (RSS 2024).  
-<br> <a href="https://arxiv.org/pdf/2405.04082"> [paper] </a> <a href="https://www.youtube.com/watch?v=GjulH8-qpRA"> [video] </a>  </i>  </p> </td>
+<br> <a href="https://arxiv.org/pdf/2405.04082"> [arxiv] </a> <a href="https://sites.google.com/view/lsp4plan"> [website] </a>  </i>  </p> </td>
 </tr>
 </tbody>
 </table>
