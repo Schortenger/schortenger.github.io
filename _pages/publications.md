@@ -10,6 +10,28 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <table >
 <tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/logicLfD.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+Shenli Yuan, Lin Shao, Yunhai Feng, Jiatong Sun, <strong> Teng Xue </strong>, Connor Yako, Jeannette Bohg, and Kenneth Salisbury. (2024) <br> <strong> Design and Control of Roller Grasper V3 for In-Hand Manipulation </strong> <br>
+<i> Submitted to IEEE Transactions on Robotics (T-RO).  
+<br> [arxiv] </a>  [website] </a>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/logicLfD.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+Yan Zhang, <strong> Teng Xue </strong>, Amirreza Razmjoo, Sylvain Calinon. (2024) <br> <strong> Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments </strong> <br>
+<i> In IEEE Robotics and Automation Letters (RA-L).  
+<br> <a href="https://arxiv.org/abs/2404.16138"> [arxiv] </a> <a href="https://sites.google.com/view/logic-lfd"> [website] </a>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RSS24.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning </strong> <br>

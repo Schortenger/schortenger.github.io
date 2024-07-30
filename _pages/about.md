@@ -11,12 +11,16 @@ I am Teng Xue, a PhD student at Ecole Polytechnique Federale de Lausanne (EPFL) 
 
 <!-- I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, especially long-horizon contact-rich manipulation, by leveraging the tools in optimization and machine learning. -->
 
-I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, especially long-horizon contact-rich manipulation, by leveraging the tools in symbolic AI and geometric motion planning.
+I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, especially in task and motion planning and contact-rich manipulation. A key scientific challenge is addressing the combinatorial complexity that arises from hybrid modes and nonlinear constraints. To tackle this, I am leveraging tools from symbolic AI, model-based optimization, tensor approximation, and learning from demonstration.
 
 
 Recent News
 ======
-<p>(2024/06) Our paper <a href="https://arxiv.org/abs/2404.16138"> Logic Dynamic Movement Primitives for Long-horizon Manipulation Tasks in Dynamic Environments </a> is accepted to RA-L!
+
+<p>(2024/06) Our paper <a href="https://drive.google.com/file/d/1N1DuU_Uf90E8XT502-fALMR4Fo3oAPSI/view"> Logic-Geometric Planning and Control
+Using Graph of Tensor Networks </a> is accepted to <a href="https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home"> RSS24 workshop: Frontiers of optimization for robotics </a> !
+
+<p>(2024/06) Our paper <a href="https://arxiv.org/abs/2404.16138"> Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments </a> is accepted to RA-L!
 
 <p>(2024/05) Our paper <a href="https://arxiv.org/abs/2405.04082"> Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning</a> is accepted to RSS 2024!
 
