@@ -23,7 +23,7 @@ Shenli Yuan, Lin Shao, Yunhai Feng, Jiatong Sun, <strong> Teng Xue </strong>, Co
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/LogicLfD_RAL.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-Yan Zhang, <strong> Teng Xue </strong>, Amirreza Razmjoo, Sylvain Calinon. <br> <strong> Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments </strong> <br>
+Yan Zhang, <strong> Teng Xue* </strong>, Amirreza Razmjoo*, Sylvain Calinon. <br> <strong> Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments </strong> <br>
 <i> In IEEE Robotics and Automation Letters (RA-L) 2024.  
 <br> <a href="https://arxiv.org/abs/2404.16138"> [arxiv] </a> <a href="https://sites.google.com/view/logic-lfd"> [website] </a>  </i>  </p> </td>
 </tr>
@@ -57,7 +57,7 @@ Yan Zhang, <strong> Teng Xue </strong>, Amirreza Razmjoo, Sylvain Calinon. <br> 
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ttpi.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Suhan Shetty, <strong> Teng Xue </strong>, Sylvain Calinon. <br> <strong> Generalized Policy Iteration using Tensor Approximation for Hybrid Control </strong> <br>
-<i> In ICLR 2024 (Spotlight, Top 5%).  
+<i> In ICLR 2024 <font color='red'>(Spotlight, Top 5%)</font>.  
 <br> <a href="https://openreview.net/forum?id=csukJcpYDe"> [paper] </a> <a href="https://sites.google.com/view/ttpi4control"> [website] </a>  </i>  </p> </td>
 </tr>
 </tbody>
