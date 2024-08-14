@@ -10,11 +10,11 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=150px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/Roller_Grasper.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/Roller_Grasper.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Shenli Yuan, Lin Shao, Yunhai Feng, Jiatong Sun, <strong> Teng Xue </strong>, Connor Yako, Jeannette Bohg, and Kenneth Salisbury. <br> <strong> Design and Control of Roller Grasper V3 for In-Hand Manipulation </strong> <br>
 <i> Accepted to IEEE Transactions on Robotics (T-RO).  
-<br> [arxiv] [website]  </i>  </p> </td>
+<br> <a href="https://yuanshenli.com/roller_grasper_v3.html"> [website] </a>  </i>  </p> </td>
 </tr>
 </tbody>
 </table>
