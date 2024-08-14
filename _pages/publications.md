@@ -8,7 +8,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <strong>Selected Publications</strong> <br>
 
-<table >
+<!-- <table >
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/Roller_Grasper.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
@@ -17,7 +17,7 @@ Shenli Yuan, Lin Shao, Yunhai Feng, Jiatong Sun, <strong> Teng Xue </strong>, Co
 <br> <a href="https://yuanshenli.com/roller_grasper_v3.html"> [website] </a>  </i>  </p> </td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 <table >
 <tbody>
