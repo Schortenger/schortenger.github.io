@@ -18,7 +18,7 @@ Recent News
 ======
 
 <p> <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
-<span style="font-family: 'Lobster', cursive; font-size: 48px; color: red;">
+<span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
     New
 </span>
 (2024/08) Our paper <a href="https://yuanshenli.com/roller_grasper_v3.html"> Design and Control of Roller Grasper V3 for In-Hand Manipulation </a> is accepted to IEEE Transactions on Robotics (T-RO)!
