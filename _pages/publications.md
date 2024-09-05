@@ -13,7 +13,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/corl2024.png" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> Robust Manipulation Primitive Learning via Domain Contraction </strong> <br>
-<i> Conference on Robot Learning (CoRL), 2024  
+<i> Conference on Robot Learning (CoRL), 2024.
 <br> <a href="https://schortenger.github.io/publications/"> [website] </a> <a href="https://schortenger.github.io/publications/"> [arxiv] </a>  <a href="https://schortenger.github.io/publications/"> [code] </a> </i>  </p> </td>
 </tr>
 </tbody>

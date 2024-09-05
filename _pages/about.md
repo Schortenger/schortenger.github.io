@@ -21,11 +21,21 @@ Recent News
 <span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
     New
 </span>
-(2024/08) Our paper <a href="https://schortenger.github.io/"> Robust Manipulation Primitive Learning via Domain Contraction </a> is accepted to Conference on Robot Learning (CoRL), 2024!
+(2024/09) Our paper <a href="https://schortenger.github.io/"> Robust Manipulation Primitive Learning via Domain Contraction </a> is accepted to Conference on Robot Learning (CoRL), 2024!
 
-<p>(2024/08) Our paper <a href="https://yuanshenli.com/roller_grasper_v3.html"> Design and Control of Roller Grasper V3 for In-Hand Manipulation </a> is accepted to IEEE Transactions on Robotics (T-RO)!
+<p>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
+<span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
+    New
+</span>
+  (2024/08) Our paper <a href="https://yuanshenli.com/roller_grasper_v3.html"> Design and Control of Roller Grasper V3 for In-Hand Manipulation </a> is accepted to IEEE Transactions on Robotics (T-RO)!
 
-<p>(2024/06) Our paper <a href="https://drive.google.com/file/d/1N1DuU_Uf90E8XT502-fALMR4Fo3oAPSI/view"> Logic-Geometric Planning and Control
+<p>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
+<span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
+    New
+</span>
+  (2024/06) Our paper <a href="https://drive.google.com/file/d/1N1DuU_Uf90E8XT502-fALMR4Fo3oAPSI/view"> Logic-Geometric Planning and Control
 Using Graph of Tensor Networks </a> is accepted to <a href="https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home"> RSS24 workshop: Frontiers of optimization for robotics </a> !
 
 <p>(2024/06) Our paper <a href="https://arxiv.org/abs/2404.16138"> Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments </a> is accepted to RA-L!
