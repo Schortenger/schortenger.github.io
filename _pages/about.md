@@ -21,7 +21,7 @@ Recent News
 <span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
     New
 </span>
-(2024/09) Our paper <a href="https://schortenger.github.io/"> Robust Manipulation Primitive Learning via Domain Contraction </a> is accepted to Conference on Robot Learning (CoRL), 2024!
+(2024/09) Our paper <a href="https://openreview.net/forum?id=yNQu9zqx6X&referrer=%5Bthe%20profile%20of%20Teng%20Xue%5D(%2Fprofile%3Fid%3D~Teng_Xue1)"> Robust Manipulation Primitive Learning via Domain Contraction </a> is accepted to Conference on Robot Learning (CoRL), 2024!
 
 <p>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
