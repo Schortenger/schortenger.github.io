@@ -14,7 +14,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> Robust Manipulation Primitive Learning via Domain Contraction </strong> <br>
 <i> Conference on Robot Learning (CoRL), 2024.
-<br>  <a href="https://openreview.net/forum?id=yNQu9zqx6X&referrer=%5Bthe%20profile%20of%20Teng%20Xue%5D(%2Fprofile%3Fid%3D~Teng_Xue1)"> [OpenReview] </a> <a href="https://schortenger.github.io/publications/"> [website] </a> <a href="https://schortenger.github.io/publications/"> [code (coming soon)] </a> </i>  </p> </td>
+<br>  <a href="https://openreview.net/forum?id=yNQu9zqx6X&referrer=%5Bthe%20profile%20of%20Teng%20Xue%5D(%2Fprofile%3Fid%3D~Teng_Xue1)"> [OpenReview] </a>  [website]  [code (coming soon)] </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -24,8 +24,8 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/Roller_Grasper.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Shenli Yuan, Lin Shao, Yunhai Feng, Jiatong Sun, <strong> Teng Xue </strong>, Connor Yako, Jeannette Bohg, and Kenneth Salisbury. <br> <strong> Design and Control of Roller Grasper V3 for In-Hand Manipulation </strong> <br>
-<i> Accepted to IEEE Transactions on Robotics (T-RO).  
-<br> <a href="https://yuanshenli.com/roller_grasper_v3.html"> [website] </a>  </i>  </p> </td>
+<i> IEEE Transactions on Robotics (T-RO).  
+<br> <a href="https://yuanshenli.com/roller_grasper_v3.html"> [website] </a> <a href="https://ieeexplore.ieee.org/abstract/document/10666738"> [paper] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
