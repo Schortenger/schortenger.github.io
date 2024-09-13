@@ -35,7 +35,7 @@ Using Graph of Tensor Networks </a> is accepted to <a href="https://sites.google
 
 <p>(2024/06) Our paper <a href="https://arxiv.org/abs/2404.16138"> Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments </a> is accepted to RA-L!
 
-<p>(2024/05) Our paper <a href="https://arxiv.org/abs/2405.04082"> Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning</a> is accepted to RSS 2024!
+<p>(2024/05) Our paper <a href="https://arxiv.org/abs/2405.04082"> Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning</a> is accepted to Robotics: Science and Systems (RSS), 2024!
 
 <p>(2024/01) Our paper <a href="https://arxiv.org/pdf/2312.02731.pdf"> D-LGP: Dynamic Logic-Geometric Program for Combined Task and Motion Planning</a> is accepted to ICRA 2024!
 
