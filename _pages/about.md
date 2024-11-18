@@ -64,7 +64,7 @@ Using Graph of Tensor Networks </a> is accepted to <a href="https://sites.google
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xNzJrCMCem9PXJRFKM8SlE_rhlOIUUp-2p_hFQmdQrk"></script>
 </div> -->
 
-<div id="footer-container" style="position: relative; width: 100%; height: 150px; background-image: url('https://schortenger.github.io/images/Interstellar.png'); background-size: cover; background-position: center; text-align: center; color: #000; font-size: 14px; line-height: 150px;">
+<div id="footer-container" style="position: relative; width: 100%; height: 150px; background-color: #f9f9f9; text-align: center; color: #000; font-size: 14px; line-height: 150px; border-top: 1px solid #ddd;">
     <span style="display: inline-block; vertical-align: middle;">
         © Teng Xue
     </span>
@@ -72,4 +72,5 @@ Using Graph of Tensor Networks </a> is accepted to <a href="https://sites.google
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xNzJrCMCem9PXJRFKM8SlE_rhlOIUUp-2p_hFQmdQrk"></script>
     </div>
 </div>
+
 
