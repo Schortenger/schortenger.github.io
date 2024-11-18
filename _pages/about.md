@@ -60,6 +60,12 @@ Using Graph of Tensor Networks </a> is accepted to <a href="https://sites.google
 
 <p>(2017/02) We won the <strong> Outstanding Winner (1/8085)</strong> of MCM/ICM competition held by <a href="https://www.comap.com/contests/mcm-icm"> American Consortium for Mathematics and Its Application (COMAP)</a>. A nice collaboration with Yasheng and Taihang!  </p>
 
-<div id="clustrmap-container" style="width: 300px; height: 300px; overflow: hidden;">
+<!-- <div id="clustrmap-container" style="width: 200px; height: 200px; overflow: hidden;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xNzJrCMCem9PXJRFKM8SlE_rhlOIUUp-2p_hFQmdQrk"></script>
+</div> -->
+
+<div id="background-container" style="position: relative; width: 100%; height: 300px; background-image: url('https://schortenger.github.io/images/Interstellar.png'); background-size: cover; background-position: center; display: flex; align-items: flex-end; justify-content: flex-end;">
+    <div id="clustrmap-container" style="width: 200px; height: 200px; overflow: hidden; margin: 10px;">
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xNzJrCMCem9PXJRFKM8SlE_rhlOIUUp-2p_hFQmdQrk"></script>
+    </div>
 </div>
