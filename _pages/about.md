@@ -64,8 +64,12 @@ Using Graph of Tensor Networks </a> is accepted to <a href="https://sites.google
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xNzJrCMCem9PXJRFKM8SlE_rhlOIUUp-2p_hFQmdQrk"></script>
 </div> -->
 
-<div id="background-container" style="position: relative; width: 100%; height: 300px; background-image: url('https://schortenger.github.io/images/Interstellar.png'); background-size: cover; background-position: center; display: flex; align-items: flex-end; justify-content: flex-end;">
-    <div id="clustrmap-container" style="width: 200px; height: 200px; overflow: hidden; margin: 10px;">
+<div id="footer-container" style="position: relative; width: 100%; height: 150px; background-image: url('https://schortenger.github.io/images/Interstellar.png'); background-size: cover; background-position: center; text-align: center; color: #000; font-size: 14px; line-height: 150px;">
+    <span style="display: inline-block; vertical-align: middle;">
+        © Teng Xue
+    </span>
+    <div id="clustrmap-container" style="display: inline-block; vertical-align: middle; margin-left: 10px; width: 30px; height: 30px; overflow: hidden;">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xNzJrCMCem9PXJRFKM8SlE_rhlOIUUp-2p_hFQmdQrk"></script>
     </div>
 </div>
+
