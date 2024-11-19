@@ -62,7 +62,7 @@ Using Graph of Tensor Networks </a> is accepted to <a href="https://sites.google
 
 <div id="footer-container" style="position: relative; width: 100%; height: 200px; background-color: #ffffff; text-align: center; color: #000; font-size: 14px; line-height: 1; border-top: 1px solid #ddd; display: flex; align-items: center; justify-content: center;">
     <div id="clustrmap-container" style="width: 100px; height: 100px; overflow: hidden;">
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xNzJrCMCem9PXJRFKM8SlE_rhlOIUUp-2p_hFQmdQrk"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=xNzJrCMCem9PXJRFKM8SlE_rhlOIUUp-2p_hFQmdQrk'></script>
     </div>
 </div>
 
