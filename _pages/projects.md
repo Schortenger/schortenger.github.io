@@ -38,13 +38,13 @@ Supervisor: Dr. Shenli Yuan, Prof.  J. Kenneth Salisbury </p>
 <div class="w3-container">
 		<br>	
 <p> ETH Zurich, Oct. 2019 - mar. 2020 <br>	
-Supervisor: David Hoeller, Dr. Martin Wermelinger, Prof. Marco Hutter </p> 
+Supervisor: Dr. David Hoeller, Dr. Martin Wermelinger, Prof. Marco Hutter </p> 
 <p>This project addressed the problem of pose estimation and control of soft robot hand. As soft hand is of no rigid body dynamics constraints, it’s difficult to model and predict the pose. We proposed a novel framework for dexterous manipulation of soft hand, which combined state-of-the-art methods for learning-based modelling and reinforcement learning. What’s more, we transferred it to the real hand system and verified the efficiency of the whole pipeline through some dexterous manipulation tasks. </p>
 </div>
-<div class="w3-row">
+<!-- <div class="w3-row">
 <div class="w3-col m8 s12">
 <p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://xueteng.weebly.com/uploads/1/2/6/8/126869231/tengxue_presentation_compressed.pdf" > <b> Presentation Slides » </b> </a> </button></p></div>
-</div>
+</div> -->
 </div>
 
 
