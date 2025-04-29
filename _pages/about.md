@@ -16,6 +16,15 @@ I am broadly interested in planning and control for robotic systems that can phy
 
 Recent News
 ======
+<p>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
+<span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
+    New
+</span>
+(2025/04) Our paper <a href="https://arxiv.org/pdf/2412.11829"> Robust Contact-rich Manipulation
+through Implicit Motor Adaptation </a> is accepted to International Journal of Robotics Research (IJRR)!
+
+
 
 <p> <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
 <span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
@@ -36,6 +45,8 @@ Using Graph of Tensor Networks </a> is accepted to <a href="https://sites.google
 <p>(2024/06) Our paper <a href="https://arxiv.org/abs/2404.16138"> Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments </a> is accepted to RA-L!
 
 <p>(2024/05) Our paper <a href="https://arxiv.org/abs/2405.04082"> Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning</a> is accepted to Robotics: Science and Systems (RSS), 2024!
+
+<p>(2024/02) I was fortunate to visit TU Berlin and give a talk at the <a href ="https://argmin.lis.tu-berlin.de/"> Learning and Intelligent Systems </a> research lab, led by <a href = "https://www.user.tu-berlin.de/mtoussai/" > Prof. Marc Toussaint </a>.
 
 <p>(2024/01) Our paper <a href="https://arxiv.org/pdf/2312.02731.pdf"> D-LGP: Dynamic Logic-Geometric Program for Combined Task and Motion Planning</a> is accepted to ICRA 2024!
 
