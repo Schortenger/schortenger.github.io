@@ -18,7 +18,9 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 </tbody>
 </table>
 
-<strong>Selected Publications</strong> <br>
+<h2>Selected Publications</h2>
+
+<h3>Journals</h3>
 
 <table >
 <tbody>
@@ -33,7 +35,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/CoRL2024.png" width="120px" height="150px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/CoRL2024.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://openreview.net/pdf?id=yNQu9zqx6X"> [Robust Manipulation Primitive Learning via Domain Contraction] </a> </strong> <br>
 <i> Conference on Robot Learning (CoRL), 2024.
