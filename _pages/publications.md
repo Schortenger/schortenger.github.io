@@ -6,7 +6,7 @@ author_profile: true
 
 You can find my full articles on <a href="https://scholar.google.com.hk/citations?user=sgFW7YwAAAAJ&hl=zh-CN"> my Google Scholar profile </a> <br>
 
-<strong>Under Review</strong> <br>
+<h2>Under Review</h2>
 
 <table >
 <tbody>
@@ -20,7 +20,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <h2>Selected Publications</h2>
 
-<h3>Journals</h3>
+<strong>Journals</strong> <br>
 
 <table >
 <tbody>
@@ -33,16 +33,6 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 </tbody>
 </table>
 
-<table >
-<tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/CoRL2024.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
-<strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://openreview.net/pdf?id=yNQu9zqx6X"> [Robust Manipulation Primitive Learning via Domain Contraction] </a> </strong> <br>
-<i> Conference on Robot Learning (CoRL), 2024.
-<br> <a href="https://sites.google.com/view/robustpl"> [website] </a> <a href="https://github.com/idiap/robust_pl"> [Code] </a>  </i>  </p> </td>
-</tr>
-</tbody>
-</table>
 
 <table >
 <tbody>
@@ -62,6 +52,55 @@ Shenli Yuan, Lin Shao, Yunhai Feng, Jiatong Sun, <strong> Teng Xue </strong>, Co
 Yan Zhang, <strong> Teng Xue </strong>*, Amirreza Razmjoo*, Sylvain Calinon. <br> <strong> <a href="https://arxiv.org/abs/2404.16138"> [Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments] </a> </strong> <br>
 <i> In IEEE Robotics and Automation Letters (RA-L) 2024.  
 <br> <a href="https://sites.google.com/view/logic-lfd"> [website] </a>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/Sensors2020.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Teng Xue </strong>; Weiming Wang; Jin Ma; Wenhai Liu; Zhenyu Pan; Mingshuo Han. <br> <strong> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094690"> [Progress and Prospects of Multimodal Fusion Methods in Physical Human–Robot Interaction: A Review] </a> </strong> <br>
+<i> In IEEE Sensors Journal, 2020.  
+ </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RAS2022.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+Wenhai Liu, Weiming Wang, Yang You, <strong> Teng Xue </strong>, Zhenyu Pan, Jin Qi, Jie Hu <br> <strong> <a href="https://www.sciencedirect.com/science/article/pii/S092188902100186X"> [Robotic picking in dense clutter via domain invariant learning from synthetic dense cluttered rendering] </a>  </strong> <br>
+<i> in Robotics and Autonomous Systems, 2022   </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/IEEEAccess_2020.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p> 
+Quanquan Shao; Jie Hu; Weiming Wang; Yi Fang; <strong> Teng Xue </strong>; Jin Qi<br> <strong> <a href="https://ieeexplore.ieee.org/abstract/document/8981898"> [Location Instruction-Based Motion Generation for Sequential Robotic Manipulation] </a>  </strong> <br>
+<i> in IEEE Access 2020. </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+
+<strong>Conferences</strong> <br>
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/CoRL2024.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://openreview.net/pdf?id=yNQu9zqx6X"> [Robust Manipulation Primitive Learning via Domain Contraction] </a> </strong> <br>
+<i> Conference on Robot Learning (CoRL), 2024.
+<br> <a href="https://sites.google.com/view/robustpl"> [website] </a> <a href="https://github.com/idiap/robust_pl"> [Code] </a>  </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -113,27 +152,6 @@ Suhan Shetty, <strong> Teng Xue </strong>, Sylvain Calinon. <br> <strong> <a hre
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/Sensors2020.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
-<strong> Teng Xue </strong>; Weiming Wang; Jin Ma; Wenhai Liu; Zhenyu Pan; Mingshuo Han. <br> <strong> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094690"> [Progress and Prospects of Multimodal Fusion Methods in Physical Human–Robot Interaction: A Review] </a> </strong> <br>
-<i> In IEEE Sensors Journal, 2020.  
- </i>  </p> </td>
-</tr>
-</tbody>
-</table>
-
-<table >
-<tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RAS2022.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
-Wenhai Liu, Weiming Wang, Yang You, <strong> Teng Xue </strong>, Zhenyu Pan, Jin Qi, Jie Hu <br> <strong> <a href="https://www.sciencedirect.com/science/article/pii/S092188902100186X"> [Robotic picking in dense clutter via domain invariant learning from synthetic dense cluttered rendering] </a>  </strong> <br>
-<i> in Robotics and Autonomous Systems, 2022   </i>  </p> </td>
-</tr>
-</tbody>
-</table>
-
-<table >
-<tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ViTAC_workshop.png" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Wenhai Liu, Mingshuo Han, Zhenyu Pan, Jin Ma, Quanquan Shao, Weiming Wang. <br> <strong> <a href="https://arxiv.org/abs/1905.12920"> [Bayesian Grasp: Robotic visual stable grasp based on prior tactile knowledge] </a>   </strong> <br>
@@ -141,15 +159,3 @@ Wenhai Liu, Weiming Wang, Yang You, <strong> Teng Xue </strong>, Zhenyu Pan, Jin
 </tr>
 </tbody>
 </table>
-
-
-<table >
-<tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/IEEEAccess_2020.png" width="120px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p> 
-Quanquan Shao; Jie Hu; Weiming Wang; Yi Fang; <strong> Teng Xue </strong>; Jin Qi<br> <strong> <a href="https://ieeexplore.ieee.org/abstract/document/8981898"> [Location Instruction-Based Motion Generation for Sequential Robotic Manipulation] </a>  </strong> <br>
-<i> in IEEE Access 2020. </i>  </p> </td>
-</tr>
-</tbody>
-</table>
-
