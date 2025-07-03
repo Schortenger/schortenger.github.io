@@ -12,7 +12,8 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ima.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> Teng Xue </strong>, Amirreza Razmjoo*, Yan Zhang*, Sylvain Calinon. <br> <strong> Unifying Robot Optimization: Monte Carlo Tree Search with Tensor Factorization </strong> <a href="https://sites.google.com/view/tt-ts"> [website] </a> <a href="https://www.youtube.com/watch?v=2zuoK4rCblc"> [Video] </a> </p> </td>
+<strong> Teng Xue </strong>, Amirreza Razmjoo*, Yan Zhang*, Sylvain Calinon. <br> <strong> Unifying Robot Optimization: Monte Carlo Tree Search with Tensor Factorization </strong> 
+<i> <br> <a href="https://sites.google.com/view/tt-ts"> [website] </a> <a href="https://www.youtube.com/watch?v=2zuoK4rCblc"> [Video] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -36,7 +37,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://openreview.net/pdf?id=yNQu9zqx6X"> [Robust Manipulation Primitive Learning via Domain Contraction] </a> </strong> <br>
 <i> Conference on Robot Learning (CoRL), 2024.
-<br> <a href="https://sites.google.com/view/robustpl"> [website] </a> <a href="https://arxiv.org/pdf/2410.11600"> [arxiv] </a> <a href="https://github.com/idiap/robust_pl"> [Code] </a>  </i>  </p> </td>
+<br> <a href="https://sites.google.com/view/robustpl"> [website] </a> <a href="https://github.com/idiap/robust_pl"> [Code] </a>  </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -123,8 +124,8 @@ Suhan Shetty, <strong> Teng Xue </strong>, Sylvain Calinon. <br> <strong> <a hre
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RAS2022.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-Wenhai Liu, Weiming Wang, Yang You, <strong> Teng Xue </strong>, Zhenyu Pan, Jin Qi, Jie Hu <br> <strong> Robotic picking in dense clutter via domain invariant learning from synthetic dense cluttered rendering </strong> <br>
-<i> in Robotics and Autonomous Systems, 2022 <a href="https://www.sciencedirect.com/science/article/pii/S092188902100186X"> [PDF] </a>  </i>  </p> </td>
+Wenhai Liu, Weiming Wang, Yang You, <strong> Teng Xue </strong>, Zhenyu Pan, Jin Qi, Jie Hu <br> <strong> <a href="https://www.sciencedirect.com/science/article/pii/S092188902100186X"> [Robotic picking in dense clutter via domain invariant learning from synthetic dense cluttered rendering] </a>  </strong> <br>
+<i> in Robotics and Autonomous Systems, 2022   </i>  </p> </td>
 </tr>
 </tbody>
 </table>
