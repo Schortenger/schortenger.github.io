@@ -4,9 +4,14 @@ permalink: /videos/
 author_profile: true
 ---
 
-<h3>Extrinsic In-hand Manipulation via Task and Motion Planning (Under Review)</h3>
+<h3>Unifying Robot Optimization: Monte Carlo Tree Search withTensor Factorization (Under Review)</h3>
 <ul>
-	<iframe width='80' height='60' src='https://www.youtube.com/embed/ZMdZRrR3lRo' frameborder='0' allowfullscreen></iframe>
+	<iframe width='80' height='60' src='https://www.youtube.com/watch?v=2zuoK4rCblc' frameborder='0' allowfullscreen></iframe>
+</ul>
+
+<h3>(RSS 2024) Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning</h3>
+<ul>
+	<iframe width='80' height='60' src='https://www.youtube.com/watch?v=GjulH8-qpRA' frameborder='0' allowfullscreen></iframe>
 </ul>
 
 <h3>(ICLR 2024) Generalized Policy Iteration using Tensor Approximation for Hybrid Control</h3>
