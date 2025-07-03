@@ -12,9 +12,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ima.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> Teng Xue </strong>, Amirreza Razmjoo*, Yan Zhang*, Sylvain Calinon. <br> <strong> RUnifying Robot Optimization: Monte Carlo Tree Search with Tensor Factorization </strong> <br>
-<i>
-<br> <a href="https://sites.google.com/view/tt-ts"> [website] </a> <a href="https://www.youtube.com/watch?v=2zuoK4rCblc"> [Video] </a> </i>  </p> </td>
+<strong> Teng Xue </strong>, Amirreza Razmjoo*, Yan Zhang*, Sylvain Calinon. <br> <strong> Unifying Robot Optimization: Monte Carlo Tree Search with Tensor Factorization </strong> <a href="https://sites.google.com/view/tt-ts"> [website] </a> <a href="https://www.youtube.com/watch?v=2zuoK4rCblc"> [Video] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -25,7 +23,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ima.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://arxiv.org/pdf/2412.11829"> [Robust Manipulation Primitive Learning via Domain Contraction] </a> </strong> <br>
+<strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://journals.sagepub.com/doi/abs/10.1177/02783649251344638"> [Robust Contact-rich Manipulation through Implicit Motor Adaptation] </a> </strong> <br>
 <i> International Journal of Robotics Research (IJRR), 2025.
 <br> <a href="https://sites.google.com/view/implicit-ma"> [website] </a> <a href="https://arxiv.org/pdf/2412.11829"> [arxiv] </a>  <a href="https://github.com/idiap/robust_pl"> [Code] </a> </i>  </p> </td>
 </tr>
