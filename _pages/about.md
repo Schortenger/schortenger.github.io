@@ -23,7 +23,7 @@ Recent News
 <span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
     New
 </span>
-(2025/06) Our paper <a href="https://calinon.ch/paper3115.htm"> Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization </a> is accepted to IROS 2025!
+(2025/06) Our paper <a href="https://sites.google.com/view/alspg-oc"> Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization </a> is accepted to IROS 2025!
 
 
 <p>
