@@ -6,9 +6,9 @@ author_profile: true
 
 You can find my full articles on <a href="https://scholar.google.com.hk/citations?user=sgFW7YwAAAAJ&hl=zh-CN"> my Google Scholar profile </a> <br>
 
-<h2>Under Review</h2>
+<!-- <h2>Under Review</h2> -->
 
-<table >
+<!-- <table >
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ttts.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
@@ -16,7 +16,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <i> <br> <a href="https://sites.google.com/view/tt-ts"> [website] </a> <a href="https://www.youtube.com/watch?v=2zuoK4rCblc"> [Video] </a> </i>  </p> </td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 <h2>Selected Publications</h2>
 
@@ -69,6 +69,7 @@ Yan Zhang, <strong> Teng Xue </strong>*, Amirreza Razmjoo*, Sylvain Calinon. <br
 </tbody>
 </table>
 
+<!-- 
 <table >
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RAS2022.jpg" width="120px" height="120px" border="2px solid #bbb"> </td>
@@ -90,7 +91,7 @@ Quanquan Shao; Jie Hu; Weiming Wang; Yi Fang; <strong> Teng Xue </strong>; Jin Q
 </tbody>
 </table>
 
-
+ -->
 
 <strong>Conferences</strong> <br>
 
