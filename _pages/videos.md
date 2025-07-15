@@ -4,10 +4,10 @@ permalink: /videos/
 author_profile: true
 ---
 
-<h3>Unifying Robot Optimization: Monte Carlo Tree Search withTensor Factorization (Under Review)</h3>
+<!-- <h3>Unifying Robot Optimization: Monte Carlo Tree Search withTensor Factorization (Under Review)</h3>
 <ul>
 	<iframe width='80' height='60' src='https://www.youtube.com/embed/2zuoK4rCblc' frameborder='0' allowfullscreen></iframe>
-</ul>
+</ul> -->
 
 <h3>(RSS 2024) Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning</h3>
 <ul>
