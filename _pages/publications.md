@@ -97,9 +97,9 @@ Quanquan Shao; Jie Hu; Weiming Wang; Yi Fang; <strong> Teng Xue </strong>; Jin Q
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/CoRL2024.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/chi_iros.jpg" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> Chi, X., Girgin, H., Löw, T., Xie, Y., <strong> Xue, T. </strong> , Huang, J., Hu, C., Liu, Z. and Calinon, S. <br> <strong> <a href="https://arxiv.org/pdf/2506.14865v1"> Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization </a> </strong> <br>
+Chi, X., Girgin, H., Löw, T., Xie, Y., <strong> Xue, T. </strong> , Huang, J., Hu, C., Liu, Z. and Calinon, S. <br> <strong> <a href="https://arxiv.org/pdf/2506.14865v1"> Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization </a> </strong> <br>
 <i> In Proc. IEEE/RSJ Intl Conf. on Intelligent Robots and Systems (IROS), 2025.
 <br> <a href="https://sites.google.com/view/alspg-oc"> [website] </a> <a href="https://github.com/xueminchi/ALSPG_2025_IROS"> [Code] </a>  </i>  </p> </td>
 </tr>
