@@ -99,6 +99,18 @@ Quanquan Shao; Jie Hu; Weiming Wang; Yi Fang; <strong> Teng Xue </strong>; Jin Q
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/CoRL2024.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
+<strong> Chi, X., Girgin, H., Löw, T., Xie, Y., <strong> Xue, T. </strong> , Huang, J., Hu, C., Liu, Z. and Calinon, S. <br> <strong> <a href="https://arxiv.org/pdf/2506.14865v1"> Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization </a> </strong> <br>
+<i> In Proc. IEEE/RSJ Intl Conf. on Intelligent Robots and Systems (IROS), 2025.
+<br> <a href="https://sites.google.com/view/alspg-oc"> [website] </a> <a href="https://github.com/xueminchi/ALSPG_2025_IROS"> [Code] </a>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/CoRL2024.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://openreview.net/pdf?id=yNQu9zqx6X"> Robust Manipulation Primitive Learning via Domain Contraction </a> </strong> <br>
 <i> Conference on Robot Learning (CoRL), 2024.
 <br> <a href="https://sites.google.com/view/robustpl"> [website] </a> <a href="https://github.com/idiap/robust_pl"> [Code] </a>  </i>  </p> </td>
