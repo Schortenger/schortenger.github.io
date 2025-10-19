@@ -23,8 +23,25 @@ Recent News
 <span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
     New
 </span>
-(2025/06) Our paper <a href="https://sites.google.com/view/alspg-oc"> Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization </a> is accepted to IROS 2025!
+(2025/10) Our paper <a href="https://arxiv.org/abs/2412.17462"> Sampling-Based Constrained Motion Planning with Product of Experts </a> is accepted to International Journal of Robotics Research (IJRR)!
 
+<p>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
+<span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
+    New
+</span>
+(2025/10) Our paper <a href="https://arxiv.org/pdf/2408.06843v2"> Learning Problem Decomposition for Efficient Sequential Multi-object Manipulation Planning </a> is accepted to IEEE Robotics and Automation Letters (RA-L)!
+
+
+
+<!-- 
+<p>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
+<span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
+    New
+</span>
+(2025/06) Our paper <a href="https://sites.google.com/view/alspg-oc"> Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization </a> is accepted to IROS 2025!
+ -->
 
 <p>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
