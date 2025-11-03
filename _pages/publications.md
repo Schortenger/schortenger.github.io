@@ -24,6 +24,30 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <table >
 <tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/TT_poe_cropped_top25.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Amirreza Razmjoo, Teng Xue </strong>, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://arxiv.org/pdf/2412.17462"> Sampling-based constrained motion planning with products of experts </a> </strong> <br>
+<i> International Journal of Robotics Research (IJRR), 2025.
+<br> </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RAL_YAN_2024.jpeg" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+Yan Zhang, <strong> Teng Xue </strong>, Amirreza Razmjoo, Sylvain Calinon. <br> <strong> <a href="https://arxiv.org/pdf/2408.06843"> Learning Problem Decomposition for Efficient
+Sequential Multi-object Manipulation Planning </a> </strong> <br>
+<i> In IEEE Robotics and Automation Letters (RA-L) 2025.  
+<br> <a href="https://sites.google.com/view/problem-decomposition-ral?usp=sharing"> [website] </a>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+<table >
+<tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ima.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://journals.sagepub.com/doi/abs/10.1177/02783649251344638"> Robust Contact-rich Manipulation through Implicit Motor Adaptation </a> </strong> <br>
@@ -99,7 +123,7 @@ Quanquan Shao; Jie Hu; Weiming Wang; Yi Fang; <strong> Teng Xue </strong>; Jin Q
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/chi_iros.jpg" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-Chi, X., Girgin, H., Löw, T., Xie, Y., <strong> Xue, T. </strong> , Huang, J., Hu, C., Liu, Z. and Calinon, S. <br> <strong> <a href="https://arxiv.org/pdf/2506.14865v1"> Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization </a> </strong> <br>
+Xuemin Chi, Hakan Girgin, Tobias Löw, Yangyang Xie, <strong> Teng Xue</strong> , Jihao Huang, Cheng Hu, Zhitao Liu and Sylvain Calinon <br> <strong> <a href="https://arxiv.org/pdf/2506.14865v1"> Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization </a> </strong> <br>
 <i> In Proc. IEEE/RSJ Intl Conf. on Intelligent Robots and Systems (IROS), 2025.
 <br> <a href="https://sites.google.com/view/alspg-oc"> [website] </a> <a href="https://github.com/xueminchi/ALSPG_2025_IROS"> [Code] </a>  </i>  </p> </td>
 </tr>
@@ -120,6 +144,17 @@ Chi, X., Girgin, H., Löw, T., Xie, Y., <strong> Xue, T. </strong> , Huang, J., 
 
 <table >
 <tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RSS_24_workshop_Teng.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://drive.google.com/file/d/1N1DuU_Uf90E8XT502-fALMR4Fo3oAPSI/view"> Logic-Geometric learning and Control Using Graph of Tensor Networks </a>  </strong> <br>
+<i> In RSS24 workshop: Frontiers of optimization for robotics.  
+<br>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/RSS24.gif" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://hub.baai.ac.cn/paper/2acfa017-46d1-4de3-a31e-a6af3416658e"> Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning </a>  </strong> <br>
@@ -128,6 +163,7 @@ Chi, X., Girgin, H., Löw, T., Xie, Y., <strong> Xue, T. </strong> , Huang, J., 
 </tr>
 </tbody>
 </table>
+
 
 <table >
 <tbody>
