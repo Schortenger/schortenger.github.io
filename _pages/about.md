@@ -12,7 +12,7 @@ I am Teng Xue, a final-year PhD student at Ecole Polytechnique Federale de Lausa
 
 <!-- I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, especially long-horizon contact-rich manipulation, by leveraging the tools in optimization and machine learning. -->
 
-I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, particularly in contact-rich manipulation. The main challenges in this domain arise from nonlinear dynamics, hybrid contact modes, and physical uncertainty. To address these issues, I have explored a range of tools spanning symbolic AI, tensor factorization, optimal control and learning from demonstration. The proposed approaches have been validated on several long-horizon dexterous manipulation tasks, including planar pushing, box pivoting, block assembly, and bimanual whole-body manipulation.
+I am broadly interested in planning and control for robotic systems that can physically interact with the surroundings, particularly in contact-rich manipulation. The main challenges in this domain arise from **nonlinear dynamics**, **hybrid contact modes**, and **physical uncertainty**. To address these issues, I have explored a range of tools spanning symbolic AI, tensor factorization, optimal control and learning from demonstration. The proposed approaches have been validated on several long-horizon dexterous manipulation tasks, including planar pushing, box pivoting, block assembly, and bimanual whole-body manipulation.
 
 
 Recent News
