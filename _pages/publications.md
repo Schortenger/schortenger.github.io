@@ -38,7 +38,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/amir_IJRR_25.png" width="120px" height="150px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/amir_iJRR_25.png" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Amirreza Razmjoo, <strong> Teng Xue </strong>, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://arxiv.org/pdf/2412.17462"> Sampling-based constrained motion planning with products of experts </a> </strong> <br>
 <i> International Journal of Robotics Research (IJRR), 2025.
