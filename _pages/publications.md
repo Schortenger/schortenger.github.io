@@ -22,6 +22,19 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 
 <strong>Journals</strong> <br>
 
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ttts_5x.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Teng Xue </strong>, Yan Zhang, Amirreza Razmjoo, Sylvain Calinon. <br> <strong> <a href="https://arxiv.org/abs/2507.04949"> Monte Carlo Tree Search with Tensor Factorization for Robot Optimization </a> </strong> <br>
+<i> Under Review.
+<br> <a href="https://sites.google.com/view/tt-ts"> [website] </a> </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
 <table >
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/TT_poe_cropped_top25.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
