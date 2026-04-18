@@ -4,7 +4,6 @@
 
 #main.publications-page .page__title {
   margin-bottom: 1rem;
-  font-size: 2.18rem;
   letter-spacing: -0.03em;
 }
 
@@ -176,10 +175,6 @@
 }
 
 @media (max-width: 767px) {
-  #main.publications-page .page__title {
-    font-size: 1.82rem;
-  }
-
   #main.publications-page .page__content h2 {
     font-size: 1.28rem;
   }
