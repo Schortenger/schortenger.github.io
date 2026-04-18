@@ -4,7 +4,7 @@
 
 #main.publications-page .page__title {
   margin-bottom: 1rem;
-  font-size: 2.4rem;
+  font-size: 2.18rem;
   letter-spacing: -0.03em;
 }
 
@@ -49,7 +49,7 @@
 }
 
 #main.publications-page .page__content h2 {
-  font-size: 1.85rem;
+  font-size: 1.6rem;
   margin: 0 0 1.1rem;
   padding-bottom: 0.8rem;
   border-bottom: 1px solid #e6eaef;
@@ -60,8 +60,8 @@
 #main.publications-page .page__content td,
 #main.publications-page .page__content td p,
 #main.publications-page .page__content td i {
-  font-size: 1.02rem;
-  line-height: 1.55;
+  font-size: 0.92rem;
+  line-height: 1.5;
 }
 
 #main.publications-page .page__content > p:first-of-type {
@@ -75,7 +75,7 @@
 
 #main.publications-page .page__content td strong a,
 #main.publications-page .page__content td > p > strong:last-of-type {
-  font-size: 1.1rem;
+  font-size: 0.98rem;
   line-height: 1.45;
 }
 
@@ -149,7 +149,7 @@
   border-radius: 999px;
   background: #f8fbfe;
   color: #335d84;
-  font-size: 0.94rem;
+  font-size: 0.9rem;
   text-decoration: none;
 }
 
@@ -165,7 +165,7 @@
   border-radius: 999px;
   background: #eef5fb;
   color: #315a7d;
-  font-size: 0.86rem;
+  font-size: 0.82rem;
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -177,11 +177,11 @@
 
 @media (max-width: 767px) {
   #main.publications-page .page__title {
-    font-size: 2rem;
+    font-size: 1.82rem;
   }
 
   #main.publications-page .page__content h2 {
-    font-size: 1.58rem;
+    font-size: 1.36rem;
   }
 
   #main.publications-page .page__content table,
