@@ -2,6 +2,7 @@
 title: "My Publications"
 permalink: /publications/
 author_profile: true
+page_class: publications-page
 ---
 
 You can find my full articles on <a href="https://scholar.google.com.hk/citations?user=sgFW7YwAAAAJ&hl=zh-CN"> my Google Scholar profile </a> <br>
@@ -18,9 +19,9 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 </tbody>
 </table> -->
 
-<h2>Selected Publications</h2>
+<!-- <h2>Selected Publications</h2> -->
 
-<strong>Under Review</strong> <br>
+<div class="pub-section">Under Review</div>
 
 <table >
 <tbody>
@@ -32,21 +33,28 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 </tbody>
 </table>
 
-<strong>Under Review</strong> <br>
-
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ttts_5x.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height:120px; vertical-align: top;"> <img style="float: left; margin-right: 10px; border: 2px solid #bbb;" src="{{ '/images/TDP_jar.gif' | relative_url }}" width="120px" height="150px"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> Teng Xue </strong>, Alberto Rigo, Bingjian Huang, Jiayi Shen, Zhengtong Xu, Nick Colonnese, Amir Memar. <br> <strong> <a href="https://arxiv.org/abs/2507.04949"> Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-rich Manipulation </a> </strong> <br>
+<strong> Teng Xue </strong>, Yan Zhang, Amirreza Razmjoo, Sylvain Calinon. <br> <strong> <a href="https://schortenger.github.io/publications/"> Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-rich Manipulation </a> </strong> <br>
 <i> <a href="https://schortenger.github.io/tube-diffusion-policy/"> [website] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
+<div class="pub-section">Journals</div>
 
 
-<strong>Journals</strong> <br>
-
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ima.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://journals.sagepub.com/doi/abs/10.1177/02783649251344638"> Robust Contact-rich Manipulation through Implicit Motor Adaptation </a> </strong> <br>
+<i> International Journal of Robotics Research (IJRR), 2025.
+<br> <a href="https://sites.google.com/view/implicit-ma"> [website] </a>  <a href="https://github.com/idiap/robust_pl"> [Code] </a> </i>  </p> </td>
+</tr>
+</tbody>
+</table>
 
 <table >
 <tbody>
@@ -54,7 +62,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <td style= "height=120px; vertical-align: top;"> <p>
 Amirreza Razmjoo, <strong> Teng Xue </strong>, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://arxiv.org/pdf/2412.17462"> Sampling-based constrained motion planning with products of experts </a> </strong> <br>
 <i> International Journal of Robotics Research (IJRR), 2025.
-<br> </i>  </p> </td>
+<br> <a href="https://github.com/idiap/smpc_poe"> [Code] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -72,16 +80,6 @@ Sequential Multi-object Manipulation Planning </a> </strong> <br>
 </table>
 
 
-<table >
-<tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ima.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
-<strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://journals.sagepub.com/doi/abs/10.1177/02783649251344638"> Robust Contact-rich Manipulation through Implicit Motor Adaptation </a> </strong> <br>
-<i> International Journal of Robotics Research (IJRR), 2025.
-<br> <a href="https://sites.google.com/view/implicit-ma"> [website] </a>  <a href="https://github.com/idiap/robust_pl"> [Code] </a> </i>  </p> </td>
-</tr>
-</tbody>
-</table>
 
 
 <table >
@@ -143,7 +141,7 @@ Quanquan Shao; Jie Hu; Weiming Wang; Yi Fang; <strong> Teng Xue </strong>; Jin Q
 
  -->
 
-<strong>Conferences</strong> <br>
+<div class="pub-section">Conferences</div>
 
 <table >
 <tbody>

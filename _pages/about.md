@@ -18,7 +18,6 @@ My research interests focus on planning and control for robotic systems that can
 
 
 
-
 Recent News
 ======
 <p>
@@ -116,5 +115,3 @@ Using Graph of Tensor Networks </a> is accepted to <a href="https://sites.google
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xNzJrCMCem9PXJRFKM8SlE_rhlOIUUp-2p_hFQmdQrk"></script>
     </div>
 </div> -->
-
-
