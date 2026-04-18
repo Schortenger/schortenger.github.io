@@ -32,6 +32,18 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 </tbody>
 </table>
 
+<strong>Under Review</strong> <br>
+
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/ttts_5x.gif" width="120px" height="150px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Teng Xue </strong>, Alberto Rigo, Bingjian Huang, Jiayi Shen, Zhengtong Xu, Nick Colonnese, Amir Memar. <br> <strong> <a href="https://arxiv.org/abs/2507.04949"> Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-rich Manipulation </a> </strong> <br>
+<i> <a href="https://schortenger.github.io/tube-diffusion-policy/"> [website] </a> </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
 
 <strong>Journals</strong> <br>
 
