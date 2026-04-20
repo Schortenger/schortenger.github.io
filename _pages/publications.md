@@ -37,7 +37,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 <tbody>
 <tr> <td style="width:120px; height:120px; vertical-align: top;"> <img style="float: left; margin-right: 10px; border: 2px solid #bbb;" src="{{ '/images/TDP_jar.gif' | relative_url }}" width="120px" height="150px"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> Teng Xue </strong>, Yan Zhang, Amirreza Razmjoo, Sylvain Calinon. <br> <strong> <a href="https://schortenger.github.io/publications/"> Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-rich Manipulation </a> </strong> <br>
+<strong> Teng Xue </strong>, Alberto Rigo, Bingjian Huang, Jiayi Shen, Zhengtong Xu, Nick Colonnese, Amir Memar. <br> <strong> Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-rich Manipulation </strong> <br>
 <i> <a href="https://schortenger.github.io/tube-diffusion-policy/"> [website] </a> </i>  </p> </td>
 </tr>
 </tbody>
