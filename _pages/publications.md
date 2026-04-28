@@ -32,7 +32,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 </tr>
 </tbody>
 </table>
-<div class="pub-section">Journals</div>
+
 
 <table >
 <tbody>
@@ -44,7 +44,7 @@ You can find my full articles on <a href="https://scholar.google.com.hk/citation
 </tbody>
 </table>
 
-
+<div class="pub-section">Journals</div>
 
 
 <table >
