@@ -159,7 +159,7 @@ Xuemin Chi, Hakan Girgin, Tobias Löw, Yangyang Xie, <strong> Teng Xue</strong> 
 
 <table >
 <tbody>
-<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/CoRL2024_dc.png" width="120px" height="150px" border="2px solid #bbb"> </td>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://schortenger.github.io/images/CoRL2024.png" width="120px" height="150px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Teng Xue </strong>, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon. <br> <strong> <a href="https://arxiv.org/pdf/2410.11600"> Robust Manipulation Primitive Learning via Domain Contraction </a> </strong> <br>
 <i> Conference on Robot Learning (CoRL), 2024.
