@@ -25,7 +25,7 @@ Recent News
 <span style="font-family: 'Lobster', cursive; font-size: 24px; color: red;">
     New
 </span>
-(2026/01) Our workshop <a href="https://manipulation-robustness.github.io/icra2026/"> Workshop on Manipulation Robustness: Towards Human-Level Robustness under Real-World Challenges </a> is accepted to ICRA 2026: .
+(2026/01) Our workshop <a href="https://manipulation-robustness.github.io/icra2026/"> Workshop on Manipulation Robustness: Towards Human-Level Robustness under Real-World Challenges </a> is accepted to ICRA 2026.
 
 <p>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lobster&display=swap">
